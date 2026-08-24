@@ -1,48 +1,8 @@
----
-
-> ## Challenge Advisor: Update & Finalize Your Project Overview
->
-> > 💡 **These grey text instructions are just for you, the team's Challenge Advisor; please delete them once you have completed the steps below.**
->
-> We've pre-populated this Challenge Project Overview page — which is what will be shared with your Break Through Tech student team in August — using the details from your submission form. You should have received an email inviting you to join this repo as a Collaborator, enabling you to add files and make edits.
-> 
-> In order for your project to be finalized and assigned to a team, please:
-> 1. **Review all sections below** and update or expand any content as needed, making sure to address the SME Feedback in the section immediately below. Look for square brackets to find the places below that require additional inputs from you (e.g., "About [Company / Org Name]").
-> 2. **Add your dataset** to the [data folder](data) in this repo.
-> 3. **Close the Issue assigned to you in this repo** to let us know that you have made your edits and the overview page is ready for final review. You can do this by going to the _Issues_ tab in the top left section of the menu above, add a comment that says "CA review complete", and click the button to Close the Issue. 
->
-> If you're unfamiliar with how to edit a page like this in GitHub, check out [this tutorial](https://ubc-lib-geo.github.io/gis-workshop-waml-template/content/handson/edit-readme.html) for a quick overview (start with step 2 and only edit this page), and [this guide](https://ubc-lib-geo.github.io/gis-workshop-waml-template/content/markdown.html) on how to use Markdown to compose text.
->
->
-> ❌ Remember that this is a public repo. Do NOT include: Proprietary data, PII, API keys, credentials, or anything confidential.
-
----
-
-## 📋 BTT Internal Evaluation Notes
-*(This section is for BTT staff and CAs only — remove before sharing with students)*
-
-### Technical Vetting
-| Check | Status | Notes |
-| :--- | :--- | :--- |
-| Python Compatibility | 🟢 | The project utilizes standard scikit-learn and XGBoost libraries which are fully supported in Google Colab environment. |
-| Data Readiness | 🟡 | While public, the datasets (IPEDS, BLS, O*NET, Census) involve complex relational merging across multiple schemas, which will be time-consuming for students. |
-| Resource Check | 🟢 | Fits within standard CPU-based compute; no GPUs or paid APIs required. |
-
-### Internal Scores
-- **Student Fit Score:** 7/10
-- **Technical Depth Score:** 8/10
-- **Overall Recommendation:** REVISE
-
-### Advisor Feedback Draft
-This project offers a strong opportunity to apply ensemble methods to high-impact social data. To succeed, first, simplify the data ingestion phase by providing a pre-merged 'base' file to avoid 10 weeks of cleaning. Second, implement a strict time-based validation holdout set to ensure the model generalizes to future credential cycles. I recommend we proceed with these scoping adjustments to ensure the dashboard remains a feasible deliverable.
-
----
-
 # Workforce Pell Opportunity Score: Predicting High-Impact Short-Term Education Programs
 
 **Company / Org:** Sage Road Solutions   
 **Challenge Advisor:** Beth Davis, bethdavisnc@gmail.com  
-**AI Studio Coach:** Hrushikesh Shetty, hrushikesh.shetty@breakthroughtech.org  
+**AI Studio Coach:** Bhavya Gopal, bhavya.gopal@breakthroughtech.org  
 **Program:** Break Through Tech AI Studio - Fall 2026  
 
 ---
@@ -180,17 +140,8 @@ https://www.texas-psc.org/bachelors/programmatic-cohorts
 
 https://www.urban.org/research/publication/how-many-short-term-training-programs-would-gain-access-pell-grants-under-new-proposal
 
-
-**Technical Tutorials:**
-- [e.g., Link to a free tutorial on the ML technique(s) involved]
-- [e.g., Link to documentation for a key library or tool]
-
 **Code Examples:**
 Data from Urban Institute analysis  (https://github.com/UrbanInstitute/The-Learning-Curve/tree/main/2023_03_29-Short_term)
-- [e.g., Link to a sample implementation or starter code]
-
-**Other:**
-- [Links to any additional resources — e.g., papers, videos, podcasts, etc.]
 
 *Feel free to explore beyond these, and share anything interesting you find with me!*
 
@@ -201,16 +152,9 @@ Data from Urban Institute analysis  (https://github.com/UrbanInstitute/The-Learn
 **Official check-ins:** During our biweekly 45-minute AI Studio Lab Section meeting block (2nd and 4th week of every month)
 
  **Other ways to reach out to me with questions:** 
-* [e.g., Your team's channel within Break Through Tech’s Discord space]
-* email: bethdavisnc@gmail.com. I'm in Central Time, and emails are best before or after the work day. Please copy your teammates and AI Studio Coach on all emails. 
-* N/A 
+* email: bethdavisnc@gmail.com. I'm in Central Time, and emails are best before or after the work day. Please copy your teammates and AI Studio Coach on all emails.
 * I will aim to respond within 48 hours. If you have a specific time by which you would like me to respond, please include that information in the email. 
 
-> 💡 **Challenge Advisor: Please update the above based on your availability and preference. If you are not able to answer questions or meet with fellows outside of the biweekly Lab Section check-ins, simply write in "N/A (only available during the official check-in times)"**
-
-**Recommended free coding / collaboration tools**
-* […]
-* […]
 
 ---
 
