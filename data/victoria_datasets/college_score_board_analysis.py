@@ -1,17 +1,20 @@
 import pandas as pd
 
 # ─── LOAD THE TWO SCORECARD FILES ───────────────────────────────
-# Field of Study file: one row per institution + CIP code + credential level.
-# This is the file our certificate-level analysis is built on.
-df1 = pd.read_csv("data/Most-Recent-Cohorts-Field-of-Study.csv", low_memory=False)
-print(df1.shape)                      # (rows, columns)
-print(df1.columns.tolist())           # full list of column names
-print(df1.head())                     # first 5 rows, to sanity-check it loaded right
-print(df1.isna().mean().sort_values(ascending=False).head(20))  # top 20 columns by % missing
+# Field of Study file was split into 3 parts to fit GitHub's size limit,
+# so we load each part and stick them back together into one dataframe.
+part1 = pd.read_csv("Field-of-Study_part1.csv", low_memory=False)
+part2 = pd.read_csv("Field-of-Study_part2.csv", low_memory=False)
+part3 = pd.read_csv("Field-of-Study_part3.csv", low_memory=False)
+df1 = pd.concat([part1, part2, part3], ignore_index=True)
 
-# Institution file: one row per college. Used for institution-level context
-# (size, control type, etc.) rather than program-level outcomes.
-df2 = pd.read_csv("data/Most-Recent-Cohorts-Institution.csv", low_memory=False)
+print(df1.shape)
+print(df1.columns.tolist())
+print(df1.head())
+print(df1.isna().mean().sort_values(ascending=False).head(20))
+
+# Institution file: one row per college.
+df2 = pd.read_csv("Most-Recent-Cohorts-Institution.csv", low_memory=False)
 print(df2.shape)
 print(df2.columns.tolist())
 print(df2.head())
@@ -78,3 +81,83 @@ for col in ['DEBT_ALL_STGP_EVAL_MDN', 'DEBT_ALL_PP_EVAL_MDN']:
 # for whether institution-level aggregation would avoid the suppression problem.
 print(cert_only['IPEDSCOUNT1'].isna().mean(), "IPEDSCOUNT1 missing rate")
 print(cert_only['IPEDSCOUNT2'].isna().mean(), "IPEDSCOUNT2 missing rate")
+
+
+
+# Does Scorecard track "did this person work at all" separately from "how much did they earn"?
+# If so, that's a usable placement signal even though earnings is too sparse.
+
+for col in ['EARN_COUNT_WNE_1YR', 'EARN_COUNT_NWNE_1YR']:
+    clean = pd.to_numeric(cert_only[col], errors='coerce')
+    print(col, "missing rate for certificates:", clean.isna().mean())
+
+# If these are well-populated, build a placement rate:
+# placement rate = WNE / (WNE + NWNE)
+cert_only['PLACEMENT_RATE'] = pd.to_numeric(cert_only['EARN_COUNT_WNE_1YR'], errors='coerce') / (
+    pd.to_numeric(cert_only['EARN_COUNT_WNE_1YR'], errors='coerce') +
+    pd.to_numeric(cert_only['EARN_COUNT_NWNE_1YR'], errors='coerce')
+)
+print(cert_only['PLACEMENT_RATE'].isna().mean(), "missing rate for placement rate")
+print(cert_only['PLACEMENT_RATE'].describe())
+
+
+
+
+print("NEW THINGS THAT WE NEED")
+print(cert_only['CIPCODE'].head(10))
+print(cert_only['CIPCODE'].dtype)
+
+print("NEW THINGS THAT WE NEED")
+# Confirm the pattern on your Scorecard side
+cert_only['CIP_FAMILY'] = cert_only['CIPCODE'] // 100
+cert_only['CIP_SERIES'] = cert_only['CIPCODE'] % 100
+print(cert_only[['CIPCODE', 'CIP_FAMILY', 'CIP_SERIES']].head(10))
+
+# On the crosswalk side, truncate the 6-digit code down to the 4-digit series level
+crosswalk = pd.read_csv("CIP-SOC.csv")
+crosswalk['CIP_4DIGIT'] = crosswalk['CIP2020Code'].astype(str).str.split('.').str[0].astype(int) * 100 + \
+                           crosswalk['CIP2020Code'].astype(str).str.split('.').str[1].str[:2].astype(int)
+
+print(crosswalk[['CIP2020Code', 'CIP_4DIGIT']].head(10))
+
+print("NEWNEWNEW")
+# Remove rows with no real occupation match
+crosswalk_clean = crosswalk[crosswalk['SOC2018Code'] != '99-9999'].copy()
+
+# Collapse the crosswalk to one row per 4-digit CIP code,
+# picking the SOC code that appears most often as a reasonable default.
+# (This is the team decision point — flag this choice when you document it.)
+crosswalk_collapsed = (
+    crosswalk_clean.groupby('CIP_4DIGIT')['SOC2018Code']
+    .agg(lambda x: x.value_counts().index[0])
+    .reset_index()
+)
+crosswalk_collapsed.columns = ['CIPCODE', 'PRIMARY_SOC_CODE']
+
+print(crosswalk_collapsed.shape)
+print(crosswalk_collapsed.head())
+
+# Join to your certificate data
+merged_with_soc = cert_only.merge(crosswalk_collapsed, on='CIPCODE', how='left')
+print(merged_with_soc.shape)
+print(merged_with_soc['PRIMARY_SOC_CODE'].isna().sum(), "certificate rows with no SOC match")
+
+print("LOTS OF NEW THIGNS")
+# ============================================================
+# STEP 1: Join Scorecard certificates to Institution data
+# ============================================================
+merged = cert_only.merge(
+    inst,
+    on='UNITID',
+    how='left',
+    suffixes=('_program', '_inst')
+)
+print("After Scorecard + Institution join:", merged.shape)
+print(merged['UNITID'].isna().sum(), "rows with no institution match")
+
+# ============================================================
+# STEP 2a: Check the ZIP-county crosswalk file structure first
+# ============================================================
+zip_county = pd.read_csv("path/to/your_zip_county_file.csv")  # update this path
+print(zip_county.columns.tolist())
+print(zip_county.head())
