@@ -1,0 +1,5 @@
+CLUSTER,programs,avg_completion_rate,share_at_70,completion_coverage,avg_placement,avg_earnings_1yr,median_county_income,avg_local_wage,avg_pct_pell,median_enrollment,TIER
+0,3085,0.681,0.525,0.122,0.905,34919.842,77351.0,97544.738,0.393,1533.0,High
+1,15039,0.467,0.132,0.766,0.942,37292.517,62666.0,74510.78,0.324,1708.0,Low
+2,18229,0.382,0.057,0.601,0.938,40998.746,87401.5,95792.779,0.275,7681.0,Low
+3,5004,0.68,0.458,0.803,0.891,26974.721,77853.0,81980.585,0.609,287.0,Medium
