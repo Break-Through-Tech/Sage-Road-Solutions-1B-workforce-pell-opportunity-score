@@ -2,3 +2,5 @@
 data/victoria_datasets/merged_dataset_v1.csv
 data/victoria_datasets/Most-Recent-Cohorts-Field-of-Study.csv
 data/victoria_datasets/us_labor_statistics_BLS.csv
+__pycache__/
+.ipynb_checkpoints/
