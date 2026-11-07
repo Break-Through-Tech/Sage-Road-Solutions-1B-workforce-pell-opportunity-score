@@ -1,0 +1,6 @@
+,accuracy,precision,recall,f1,roc_auc,label
+Dummy,0.844,0.0,0.0,0.0,0.5,school completion >= 70% (national)
+Logistic Regression,0.864,0.54,0.883,0.669,0.928,school completion >= 70% (national)
+Random Forest,0.893,0.645,0.702,0.671,0.945,school completion >= 70% (national)
+XGBoost,0.891,0.622,0.769,0.687,0.947,school completion >= 70% (national)
+HistGradientBoosting,0.89,0.617,0.777,0.687,0.944,school completion >= 70% (national)
