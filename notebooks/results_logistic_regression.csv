@@ -1,0 +1,3 @@
+,accuracy,precision,recall,f1,roc_auc
+Dummy,0.844,0.0,0.0,0.0,0.5
+Logistic Regression,0.864,0.54,0.883,0.669,0.928

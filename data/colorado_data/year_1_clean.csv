@@ -1,0 +1,748 @@
+ENTITY_ID,ENTITY_NAME,CIPCODE,CIP_TITLE,ROI_GROUP,DEGREE_LEVEL_ID,DEGREE,COMPLETERS,COMPLETERS_WITH_WAGE,PCT_WITH_WAGE,EARN_Q1,EARN_MEDIAN,EARN_Q3,COMPLETERS_SUPPRESSED,EARNINGS_SUPPRESSED
+0511,Community College of Denver,1513,Drafting/Design Engineering Technologies/Technicians.(15.13),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0528,Trinidad State College,5135,Somatic Bodywork and Related Therapeutic Services.(51.35),Health,02,Certificate(>1 year),14.0,,,,,,False,True
+0507,Front Range Community College,106,Applied Horticulture and Horticultural Business Services.(01.06),"Science, Technology, Engineering and Math",02,Certificate(>1 year),16.0,,,,,,False,True
+6326,Technical College of the Rockies,4301,Criminal Justice and Corrections.(43.01),Trades,02,Certificate(>1 year),16.0,14.0,0.88,54887.0,59304.0,67291.0,False,False
+0497,Arapahoe Community College,5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.(51.39)",Health,01,Certificate(<1 year),1159.0,387.0,0.33,28793.0,36988.0,47095.0,False,False
+0514,Lamar Community College,5204,Business Operations Support and Assistant Services.(52.04),Business,01,Certificate(<1 year),,,,,,,True,True
+0528,Trinidad State College,5004,Design and Applied Arts.(50.04),"Arts, Humanities and Communication",01,Certificate(<1 year),,,,,,,True,True
+0518,Colorado Mesa University,110,Food Science and Technology.(01.10),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0522,Otero College,4805,Precision Metal Working.(48.05),Trades,01,Certificate(<1 year),76.0,22.0,0.29,25440.0,31841.0,34973.0,False,False
+0525,Colorado Northwestern Community College,5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.(51.39)",Health,01,Certificate(<1 year),159.0,46.0,0.29,29793.0,38701.0,44497.0,False,False
+0525,Colorado Northwestern Community College,5135,Somatic Bodywork and Related Therapeutic Services.(51.35),Health,01,Certificate(<1 year),15.0,,,,,,False,True
+0492,Pueblo Community College,5115,Mental and Social Health Services and Allied Professions.(51.15),Health,02,Certificate(>1 year),33.0,22.0,0.67,43401.0,59811.0,64649.0,False,False
+0501,Colorado Mountain College,5207,Entrepreneurial and Small Business Operations.(52.07),Business,01,Certificate(<1 year),17.0,,,,,,False,True
+0508,Red Rocks Community College,5203,Accounting and Related Services.(52.03),Business,01,Certificate(<1 year),377.0,183.0,0.49,35322.0,45720.0,64209.0,False,False
+0491,Community College of Aurora,4302,Fire Protection.(43.02),Trades,01,Certificate(<1 year),73.0,39.0,0.53,29775.0,43343.0,52614.0,False,False
+0507,Front Range Community College,4706,Vehicle Maintenance and Repair Technologies/Technicians.(47.06),Trades,02,Certificate(>1 year),,,,,,,True,True
+0520,Northeastern Junior College,5203,Accounting and Related Services.(52.03),Business,01,Certificate(<1 year),14.0,,,,,,False,True
+0511,Community College of Denver,5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.(51.39)",Health,02,Certificate(>1 year),40.0,32.0,0.8,39144.0,52534.0,70605.0,False,False
+0497,Arapahoe Community College,1101,"Computer and Information Sciences, General.(11.01)","Science, Technology, Engineering and Math",01,Certificate(<1 year),100.0,58.0,0.58,28907.0,48530.0,71753.0,False,False
+0518,Colorado Mesa University,5215,Real Estate.(52.15),Business,01,Certificate(<1 year),,,,,,,True,True
+0509,Pikes Peak State College,302,Environmental/Natural Resources Management and Policy.(03.02),"Science, Technology, Engineering and Math",01,Certificate(<1 year),75.0,,,,,,False,True
+0528,Trinidad State College,1312,"Teacher Education and Professional Development, Specific Levels and Methods.(13.12)",Education,01,Certificate(<1 year),19.0,,,,,,False,True
+0507,Front Range Community College,301,Natural Resources Conservation and Research.(03.01),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0492,Pueblo Community College,4805,Precision Metal Working.(48.05),Trades,01,Certificate(<1 year),664.0,229.0,0.34,30282.0,40305.0,50892.0,False,False
+6109,Pickens Technical College,5108,Allied Health and Medical Assisting Services.(51.08),Health,01,Certificate(<1 year),157.0,49.0,0.31,27750.0,30691.0,40934.0,False,False
+0507,Front Range Community College,1505,Environmental Control Technologies/Technicians.(15.05),"Science, Technology, Engineering and Math",02,Certificate(>1 year),38.0,19.0,0.5,53081.0,64964.0,77026.0,False,False
+0508,Red Rocks Community College,1102,Computer Programming.(11.02),"Science, Technology, Engineering and Math",01,Certificate(<1 year),49.0,21.0,0.43,29711.0,51051.0,72376.0,False,False
+0505,Aims Community College,5107,Health and Medical Administrative Services.(51.07),Health,02,Certificate(>1 year),,,,,,,True,True
+0523,Colorado Christian University,5210,Human Resources Management and Services.(52.10),Business,01,Certificate(<1 year),,,,,,,True,True
+0509,Pikes Peak State College,1205,Culinary Arts and Related Services.(12.05),Trades,02,Certificate(>1 year),62.0,26.0,0.42,26484.0,31528.0,44259.0,False,False
+0518,Colorado Mesa University,1506,Industrial Production Technologies/Technicians.(15.06),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0507,Front Range Community College,4805,Precision Metal Working.(48.05),Trades,01,Certificate(<1 year),2540.0,796.0,0.31,31671.0,42295.0,53360.0,False,False
+0505,Aims Community College,907,"Radio, Television, and Digital Communication.(09.07)","Arts, Humanities and Communication",01,Certificate(<1 year),37.0,10.0,0.27,24710.0,30997.0,43685.0,False,False
+0491,Community College of Aurora,5107,Health and Medical Administrative Services.(51.07),Health,01,Certificate(<1 year),12.0,,,,,,False,True
+0528,Trinidad State College,4603,Electrical and Power Transmission Installers.(46.03),Trades,01,Certificate(<1 year),852.0,621.0,0.73,41126.0,54348.0,69793.0,False,False
+6109,Pickens Technical College,1205,Culinary Arts and Related Services.(12.05),Trades,01,Certificate(<1 year),15.0,,,,,,False,True
+0497,Arapahoe Community College,5203,Accounting and Related Services.(52.03),Business,01,Certificate(<1 year),63.0,31.0,0.49,33843.0,45234.0,61215.0,False,False
+0508,Red Rocks Community College,1505,Environmental Control Technologies/Technicians.(15.05),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0508,Red Rocks Community College,1108,Computer Software and Media Applications.(11.08),"Science, Technology, Engineering and Math",01,Certificate(<1 year),15.0,,,,,,False,True
+0505,Aims Community College,5001,"Visual and Performing Arts, General.(50.01)","Arts, Humanities and Communication",01,Certificate(<1 year),,,,,,,True,True
+0501,Colorado Mountain College,1301,"Education, General.(13.01)",Education,01,Certificate(<1 year),,,,,,,True,True
+0492,Pueblo Community College,5135,Somatic Bodywork and Related Therapeutic Services.(51.35),Health,02,Certificate(>1 year),,,,,,,True,True
+0523,Colorado Christian University,3801,Philosophy.(38.01),"Arts, Humanities and Communication",01,Certificate(<1 year),,,,,,,True,True
+0491,Community College of Aurora,5203,Accounting and Related Services.(52.03),Business,02,Certificate(>1 year),,,,,,,True,True
+0509,Pikes Peak State College,1109,Computer Systems Networking and Telecommunications.(11.09),"Science, Technology, Engineering and Math",02,Certificate(>1 year),19.0,10.0,0.53,36506.0,40722.0,64338.0,False,False
+0519,Metropolitan State University of Denver,5202,"Business Administration, Management and Operations.(52.02)",Business,01,Certificate(<1 year),,,,,,,True,True
+0509,Pikes Peak State College,5203,Accounting and Related Services.(52.03),Business,02,Certificate(>1 year),119.0,46.0,0.39,39870.0,52094.0,64911.0,False,False
+0511,Community College of Denver,3070,Data Science.(30.70),"Arts, Humanities and Communication",01,Certificate(<1 year),,,,,,,True,True
+0520,Northeastern Junior College,1312,"Teacher Education and Professional Development, Specific Levels and Methods.(13.12)",Education,02,Certificate(>1 year),,,,,,,True,True
+0511,Community College of Denver,5203,Accounting and Related Services.(52.03),Business,02,Certificate(>1 year),23.0,,,,,,False,True
+0501,Colorado Mountain College,1505,Environmental Control Technologies/Technicians.(15.05),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0509,Pikes Peak State College,1312,"Teacher Education and Professional Development, Specific Levels and Methods.(13.12)",Education,01,Certificate(<1 year),299.0,74.0,0.25,27281.0,33151.0,38932.0,False,False
+0507,Front Range Community College,5107,Health and Medical Administrative Services.(51.07),Health,02,Certificate(>1 year),49.0,15.0,0.31,31033.0,33264.0,41999.0,False,False
+0511,Community College of Denver,5202,"Business Administration, Management and Operations.(52.02)",Business,01,Certificate(<1 year),33.0,13.0,0.39,35378.0,35880.0,53357.0,False,False
+0511,Community College of Denver,5108,Allied Health and Medical Assisting Services.(51.08),Health,01,Certificate(<1 year),51.0,13.0,0.25,25137.0,31697.0,35133.0,False,False
+0491,Community College of Aurora,1312,"Teacher Education and Professional Development, Specific Levels and Methods.(13.12)",Education,01,Certificate(<1 year),231.0,96.0,0.42,27758.0,33126.0,42728.0,False,False
+0492,Pueblo Community College,1003,Graphic Communications.(10.03),"Arts, Humanities and Communication",01,Certificate(<1 year),,,,,,,True,True
+6109,Pickens Technical College,4805,Precision Metal Working.(48.05),Trades,01,Certificate(<1 year),158.0,66.0,0.42,36750.0,43889.0,55980.0,False,False
+0511,Community College of Denver,1501,Architectural Engineering Technologies/Technicians.(15.01),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0511,Community College of Denver,904,Journalism.(09.04),"Arts, Humanities and Communication",01,Certificate(<1 year),,,,,,,True,True
+0511,Community College of Denver,1905,"Foods, Nutrition, and Related Services.(19.05)",Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),98.0,33.0,0.34,29973.0,42787.0,53101.0,False,False
+0509,Pikes Peak State College,5110,Clinical/Medical Laboratory Science/Research and Allied Professions.(51.10),Health,01,Certificate(<1 year),110.0,32.0,0.29,27187.0,36052.0,44086.0,False,False
+0511,Community College of Denver,5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.(51.39)",Health,01,Certificate(<1 year),668.0,255.0,0.38,29011.0,37373.0,45875.0,False,False
+0509,Pikes Peak State College,1002,Audiovisual Communications Technologies/Technicians.(10.02),"Arts, Humanities and Communication",01,Certificate(<1 year),,,,,,,True,True
+0491,Community College of Aurora,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.(51.09)",Health,02,Certificate(>1 year),76.0,63.0,0.83,55286.0,77216.0,103460.0,False,False
+0528,Trinidad State College,1204,Cosmetology and Related Personal Grooming Services.(12.04),Trades,02,Certificate(>1 year),150.0,15.0,0.1,29651.0,34229.0,42237.0,False,False
+0514,Lamar Community College,105,Agricultural and Domestic Animal Services.(01.05),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0497,Arapahoe Community College,5126,Health Aides/Attendants/Orderlies.(51.26),Health,01,Certificate(<1 year),,,,,,,True,True
+0522,Otero College,5115,Mental and Social Health Services and Allied Professions.(51.15),Health,01,Certificate(<1 year),,,,,,,True,True
+0528,Trinidad State College,4704,Precision Systems Maintenance and Repair Technologies/Technicians.(47.04),Trades,01,Certificate(<1 year),27.0,,,,,,False,True
+0509,Pikes Peak State College,1109,Computer Systems Networking and Telecommunications.(11.09),"Science, Technology, Engineering and Math",01,Certificate(<1 year),114.0,50.0,0.44,43168.0,58242.0,80520.0,False,False
+0491,Community College of Aurora,1601,"Linguistic, Comparative, and Related Language Studies and Services.(16.01)","Arts, Humanities and Communication",02,Certificate(>1 year),21.0,,,,,,False,True
+0501,Colorado Mountain College,4805,Precision Metal Working.(48.05),Trades,01,Certificate(<1 year),95.0,37.0,0.39,29869.0,41775.0,49086.0,False,False
+0508,Red Rocks Community College,1312,"Teacher Education and Professional Development, Specific Levels and Methods.(13.12)",Education,02,Certificate(>1 year),59.0,29.0,0.49,32181.0,38917.0,44820.0,False,False
+0511,Community College of Denver,5004,Design and Applied Arts.(50.04),"Arts, Humanities and Communication",02,Certificate(>1 year),30.0,,,,,,False,True
+0505,Aims Community College,5214,Marketing.(52.14),Business,01,Certificate(<1 year),29.0,15.0,0.52,35204.0,50411.0,85115.0,False,False
+0519,Metropolitan State University of Denver,1205,Culinary Arts and Related Services.(12.05),Trades,01,Certificate(<1 year),,,,,,,True,True
+0507,Front Range Community College,1504,Electromechanical Technologies/Technicians.(15.04),"Science, Technology, Engineering and Math",01,Certificate(<1 year),20.0,14.0,0.7,43218.0,73819.0,92787.0,False,False
+0518,Colorado Mesa University,4706,Vehicle Maintenance and Repair Technologies/Technicians.(47.06),Trades,01,Certificate(<1 year),94.0,20.0,0.21,29033.0,32958.0,37483.0,False,False
+5124,Emily Griffith Technical College,1204,Cosmetology and Related Personal Grooming Services.(12.04),Trades,01,Certificate(<1 year),1368.0,368.0,0.27,26231.0,32825.0,42782.0,False,False
+6109,Pickens Technical College,4603,Electrical and Power Transmission Installers.(46.03),Trades,01,Certificate(<1 year),12.0,,,,,,False,True
+0518,Colorado Mesa University,1109,Computer Systems Networking and Telecommunications.(11.09),"Science, Technology, Engineering and Math",01,Certificate(<1 year),11.0,,,,,,False,True
+0491,Community College of Aurora,5006,Film/Video and Photographic Arts.(50.06),"Arts, Humanities and Communication",02,Certificate(>1 year),50.0,20.0,0.4,27072.0,32285.0,52556.0,False,False
+0523,Colorado Christian University,901,Communication and Media Studies.(09.01),"Arts, Humanities and Communication",01,Certificate(<1 year),,,,,,,True,True
+0507,Front Range Community College,1102,Computer Programming.(11.02),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+6109,Pickens Technical College,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.(51.09)",Health,01,Certificate(<1 year),,,,,,,True,True
+0505,Aims Community College,1110,Computer/Information Technology Administration and Management.(11.10),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0491,Community College of Aurora,2203,Legal Support Services.(22.03),Social and Behavioral Sciences and Human Services,02,Certificate(>1 year),58.0,40.0,0.69,44327.0,55328.0,70138.0,False,False
+6109,Pickens Technical College,5006,Film/Video and Photographic Arts.(50.06),"Arts, Humanities and Communication",01,Certificate(<1 year),44.0,10.0,0.23,25505.0,32491.0,44031.0,False,False
+0528,Trinidad State College,4902,Ground Transportation.(49.02),Trades,01,Certificate(<1 year),28.0,11.0,0.39,32572.0,38401.0,52416.0,False,False
+0518,Colorado Mesa University,4702,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).(47.02)",Trades,01,Certificate(<1 year),,,,,,,True,True
+0507,Front Range Community College,5207,Entrepreneurial and Small Business Operations.(52.07),Business,01,Certificate(<1 year),,,,,,,True,True
+0518,Colorado Mesa University,1002,Audiovisual Communications Technologies/Technicians.(10.02),"Arts, Humanities and Communication",01,Certificate(<1 year),47.0,,,,,,False,True
+0509,Pikes Peak State College,4603,Electrical and Power Transmission Installers.(46.03),Trades,01,Certificate(<1 year),,,,,,,True,True
+0505,Aims Community College,4301,Criminal Justice and Corrections.(43.01),Trades,02,Certificate(>1 year),152.0,117.0,0.77,36832.0,58161.0,74682.0,False,False
+0518,Colorado Mesa University,103,Agricultural Production Operations.(01.03),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0501,Colorado Mountain College,907,"Radio, Television, and Digital Communication.(09.07)","Arts, Humanities and Communication",02,Certificate(>1 year),,,,,,,True,True
+0491,Community College of Aurora,4301,Criminal Justice and Corrections.(43.01),Trades,02,Certificate(>1 year),110.0,94.0,0.85,42784.0,60951.0,77402.0,False,False
+0505,Aims Community College,1108,Computer Software and Media Applications.(11.08),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0507,Front Range Community College,1314,Teaching English or French as a Second or Foreign Language.(13.14),Education,01,Certificate(<1 year),52.0,,,,,,False,True
+0509,Pikes Peak State College,2607,Zoology/Animal Biology.(26.07),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0505,Aims Community College,5202,"Business Administration, Management and Operations.(52.02)",Business,02,Certificate(>1 year),,,,,,,True,True
+0511,Community College of Denver,5216,Taxation.(52.16),Business,01,Certificate(<1 year),,,,,,,True,True
+0509,Pikes Peak State College,1905,"Foods, Nutrition, and Related Services.(19.05)",Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),,,,,,,True,True
+0544,Morgan Community College,5110,Clinical/Medical Laboratory Science/Research and Allied Professions.(51.10),Health,01,Certificate(<1 year),38.0,10.0,0.26,24934.0,28621.0,29493.0,False,False
+0501,Colorado Mountain College,5108,Allied Health and Medical Assisting Services.(51.08),Health,02,Certificate(>1 year),24.0,13.0,0.54,48103.0,51119.0,56439.0,False,False
+0508,Red Rocks Community College,1505,Environmental Control Technologies/Technicians.(15.05),"Science, Technology, Engineering and Math",01,Certificate(<1 year),202.0,104.0,0.51,48239.0,60632.0,74667.0,False,False
+0522,Otero College,5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.(51.39)",Health,02,Certificate(>1 year),43.0,22.0,0.51,33238.0,49858.0,59925.0,False,False
+0511,Community College of Denver,2203,Legal Support Services.(22.03),Social and Behavioral Sciences and Human Services,02,Certificate(>1 year),73.0,45.0,0.62,44415.0,53269.0,66859.0,False,False
+0507,Front Range Community College,183,Veterinary/Animal Health Technologies/Technicians.(01.83),"Science, Technology, Engineering and Math",01,Certificate(<1 year),23.0,13.0,0.57,27926.0,30456.0,33073.0,False,False
+0497,Arapahoe Community College,5107,Health and Medical Administrative Services.(51.07),Health,02,Certificate(>1 year),44.0,20.0,0.45,28001.0,37630.0,43757.0,False,False
+0544,Morgan Community College,5126,Health Aides/Attendants/Orderlies.(51.26),Health,02,Certificate(>1 year),16.0,,,,,,False,True
+0505,Aims Community College,5110,Clinical/Medical Laboratory Science/Research and Allied Professions.(51.10),Health,01,Certificate(<1 year),224.0,101.0,0.45,29304.0,36225.0,43626.0,False,False
+0492,Pueblo Community College,5106,Dental Support Services and Allied Professions.(51.06),Health,01,Certificate(<1 year),,,,,,,True,True
+0501,Colorado Mountain College,5209,Hospitality Administration/Management.(52.09),Business,02,Certificate(>1 year),32.0,18.0,0.56,25106.0,41916.0,51504.0,False,False
+0507,Front Range Community College,1506,Industrial Production Technologies/Technicians.(15.06),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+6326,Technical College of the Rockies,4301,Criminal Justice and Corrections.(43.01),Trades,01,Certificate(<1 year),121.0,102.0,0.84,47626.0,62172.0,72689.0,False,False
+0492,Pueblo Community College,1204,Cosmetology and Related Personal Grooming Services.(12.04),Trades,01,Certificate(<1 year),165.0,20.0,0.12,24397.0,31152.0,49579.0,False,False
+0492,Pueblo Community College,1101,"Computer and Information Sciences, General.(11.01)","Science, Technology, Engineering and Math",01,Certificate(<1 year),79.0,13.0,0.16,28109.0,42386.0,46591.0,False,False
+0497,Arapahoe Community College,1601,"Linguistic, Comparative, and Related Language Studies and Services.(16.01)","Arts, Humanities and Communication",01,Certificate(<1 year),,,,,,,True,True
+5124,Emily Griffith Technical College,5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.(51.39)",Health,02,Certificate(>1 year),350.0,295.0,0.84,38808.0,57815.0,70954.0,False,False
+0508,Red Rocks Community College,5005,Drama/Theatre Arts and Stagecraft.(50.05),"Arts, Humanities and Communication",01,Certificate(<1 year),36.0,10.0,0.28,32837.0,36699.0,40957.0,False,False
+0508,Red Rocks Community College,5216,Taxation.(52.16),Business,01,Certificate(<1 year),,,,,,,True,True
+0508,Red Rocks Community College,4605,Plumbing and Related Water Supply Services.(46.05),Trades,01,Certificate(<1 year),,,,,,,True,True
+0522,Otero College,5207,Entrepreneurial and Small Business Operations.(52.07),Business,01,Certificate(<1 year),58.0,,,,,,False,True
+0508,Red Rocks Community College,1109,Computer Systems Networking and Telecommunications.(11.09),"Science, Technology, Engineering and Math",01,Certificate(<1 year),45.0,21.0,0.47,45500.0,51094.0,67448.0,False,False
+0508,Red Rocks Community College,5107,Health and Medical Administrative Services.(51.07),Health,01,Certificate(<1 year),132.0,57.0,0.43,31605.0,38337.0,47919.0,False,False
+0509,Pikes Peak State College,5115,Mental and Social Health Services and Allied Professions.(51.15),Health,01,Certificate(<1 year),18.0,,,,,,False,True
+0508,Red Rocks Community College,1315,Teaching Assistants/Aides.(13.15),Education,01,Certificate(<1 year),,,,,,,True,True
+0522,Otero College,1204,Cosmetology and Related Personal Grooming Services.(12.04),Trades,02,Certificate(>1 year),79.0,,,,,,False,True
+0520,Northeastern Junior College,5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.(51.39)",Health,02,Certificate(>1 year),19.0,,,,,,False,True
+0491,Community College of Aurora,5100,"Health Services/Allied Health/Health Sciences, General.(51.00)",Health,01,Certificate(<1 year),40.0,16.0,0.4,27262.0,40814.0,50295.0,False,False
+0508,Red Rocks Community College,4303,Homeland Security.(43.03),Trades,02,Certificate(>1 year),,,,,,,True,True
+0519,Metropolitan State University of Denver,5102,Communication Disorders Sciences and Services.(51.02),Health,01,Certificate(<1 year),14.0,,,,,,False,True
+0507,Front Range Community College,4706,Vehicle Maintenance and Repair Technologies/Technicians.(47.06),Trades,01,Certificate(<1 year),1780.0,741.0,0.42,29343.0,38793.0,49446.0,False,False
+0508,Red Rocks Community College,4302,Fire Protection.(43.02),Trades,01,Certificate(<1 year),558.0,439.0,0.79,47717.0,72462.0,92289.0,False,False
+0522,Otero College,1312,"Teacher Education and Professional Development, Specific Levels and Methods.(13.12)",Education,02,Certificate(>1 year),,,,,,,True,True
+0501,Colorado Mountain College,1505,Environmental Control Technologies/Technicians.(15.05),"Science, Technology, Engineering and Math",01,Certificate(<1 year),130.0,36.0,0.28,34394.0,44236.0,51501.0,False,False
+0528,Trinidad State College,4706,Vehicle Maintenance and Repair Technologies/Technicians.(47.06),Trades,01,Certificate(<1 year),103.0,18.0,0.17,26747.0,30206.0,39986.0,False,False
+0492,Pueblo Community College,1103,Data Processing.(11.03),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+5124,Emily Griffith Technical College,4507,Geography and Cartography.(45.07),Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),22.0,13.0,0.59,34469.0,37930.0,49084.0,False,False
+0491,Community College of Aurora,1312,"Teacher Education and Professional Development, Specific Levels and Methods.(13.12)",Education,02,Certificate(>1 year),76.0,42.0,0.55,31038.0,40601.0,47489.0,False,False
+0508,Red Rocks Community College,4301,Criminal Justice and Corrections.(43.01),Trades,01,Certificate(<1 year),77.0,19.0,0.25,28695.0,32274.0,35411.0,False,False
+0523,Colorado Christian University,5202,"Business Administration, Management and Operations.(52.02)",Business,01,Certificate(<1 year),25.0,16.0,0.64,63727.0,71290.0,79676.0,False,False
+0497,Arapahoe Community College,5004,Design and Applied Arts.(50.04),"Arts, Humanities and Communication",01,Certificate(<1 year),79.0,22.0,0.28,35254.0,50664.0,70118.0,False,False
+0492,Pueblo Community College,5115,Mental and Social Health Services and Allied Professions.(51.15),Health,01,Certificate(<1 year),,,,,,,True,True
+0509,Pikes Peak State College,5006,Film/Video and Photographic Arts.(50.06),"Arts, Humanities and Communication",01,Certificate(<1 year),20.0,,,,,,False,True
+0525,Colorado Northwestern Community College,301,Natural Resources Conservation and Research.(03.01),"Science, Technology, Engineering and Math",02,Certificate(>1 year),50.0,,,,,,False,True
+0497,Arapahoe Community College,2203,Legal Support Services.(22.03),Social and Behavioral Sciences and Human Services,02,Certificate(>1 year),144.0,87.0,0.6,41774.0,57902.0,75552.0,False,False
+4504,CSU-Global Campus,1108,Computer Software and Media Applications.(11.08),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0497,Arapahoe Community College,4600,"Construction Trades, General.(46.00)",Trades,01,Certificate(<1 year),,,,,,,True,True
+0492,Pueblo Community College,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.(51.09)",Health,02,Certificate(>1 year),86.0,68.0,0.79,60221.0,69263.0,85746.0,False,False
+0509,Pikes Peak State College,183,Veterinary/Animal Health Technologies/Technicians.(01.83),"Science, Technology, Engineering and Math",01,Certificate(<1 year),24.0,,,,,,False,True
+0544,Morgan Community College,4703,Heavy/Industrial Equipment Maintenance Technologies/Technicians.(47.03),Trades,02,Certificate(>1 year),,,,,,,True,True
+6109,Pickens Technical College,5214,Marketing.(52.14),Business,01,Certificate(<1 year),16.0,,,,,,False,True
+0497,Arapahoe Community College,5009,Music.(50.09),"Arts, Humanities and Communication",01,Certificate(<1 year),35.0,13.0,0.37,29490.0,33525.0,42983.0,False,False
+0528,Trinidad State College,1507,Quality Control and Safety Technologies/Technicians.(15.07),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0525,Colorado Northwestern Community College,4706,Vehicle Maintenance and Repair Technologies/Technicians.(47.06),Trades,01,Certificate(<1 year),40.0,22.0,0.55,39563.0,42225.0,45874.0,False,False
+0528,Trinidad State College,4901,Air Transportation.(49.01),Trades,01,Certificate(<1 year),,,,,,,True,True
+0528,Trinidad State College,4228,"Clinical, Counseling and Applied Psychology.(42.28)",Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),,,,,,,True,True
+0491,Community College of Aurora,5202,"Business Administration, Management and Operations.(52.02)",Business,01,Certificate(<1 year),219.0,99.0,0.45,33888.0,48585.0,63192.0,False,False
+0514,Lamar Community College,1204,Cosmetology and Related Personal Grooming Services.(12.04),Trades,01,Certificate(<1 year),18.0,,,,,,False,True
+6109,Pickens Technical College,4706,Vehicle Maintenance and Repair Technologies/Technicians.(47.06),Trades,01,Certificate(<1 year),425.0,216.0,0.51,31292.0,42963.0,54756.0,False,False
+0518,Colorado Mesa University,1003,Graphic Communications.(10.03),"Arts, Humanities and Communication",02,Certificate(>1 year),,,,,,,True,True
+0492,Pueblo Community College,5203,Accounting and Related Services.(52.03),Business,01,Certificate(<1 year),,,,,,,True,True
+0509,Pikes Peak State College,1110,Computer/Information Technology Administration and Management.(11.10),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+6109,Pickens Technical College,1204,Cosmetology and Related Personal Grooming Services.(12.04),Trades,01,Certificate(<1 year),485.0,138.0,0.28,27521.0,37429.0,52882.0,False,False
+0514,Lamar Community College,5108,Allied Health and Medical Assisting Services.(51.08),Health,01,Certificate(<1 year),41.0,20.0,0.49,34870.0,43025.0,61947.0,False,False
+0491,Community College of Aurora,1002,Audiovisual Communications Technologies/Technicians.(10.02),"Arts, Humanities and Communication",02,Certificate(>1 year),,,,,,,True,True
+0511,Community College of Denver,1101,"Computer and Information Sciences, General.(11.01)","Science, Technology, Engineering and Math",01,Certificate(<1 year),34.0,16.0,0.47,34310.0,42554.0,60363.0,False,False
+0507,Front Range Community College,4805,Precision Metal Working.(48.05),Trades,02,Certificate(>1 year),163.0,96.0,0.59,38831.0,48193.0,55473.0,False,False
+0505,Aims Community College,5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.(51.38)",Health,02,Certificate(>1 year),,,,,,,True,True
+0509,Pikes Peak State College,2203,Legal Support Services.(22.03),Social and Behavioral Sciences and Human Services,02,Certificate(>1 year),15.0,,,,,,False,True
+0528,Trinidad State College,4704,Precision Systems Maintenance and Repair Technologies/Technicians.(47.04),Trades,02,Certificate(>1 year),24.0,,,,,,False,True
+0507,Front Range Community College,5004,Design and Applied Arts.(50.04),"Arts, Humanities and Communication",01,Certificate(<1 year),35.0,10.0,0.29,39305.0,45208.0,52695.0,False,False
+6109,Pickens Technical College,4604,"Building/Construction Finishing, Management, and Inspection.(46.04)",Trades,01,Certificate(<1 year),59.0,24.0,0.41,31315.0,42680.0,56406.0,False,False
+0528,Trinidad State College,5135,Somatic Bodywork and Related Therapeutic Services.(51.35),Health,01,Certificate(<1 year),11.0,,,,,,False,True
+0528,Trinidad State College,5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.(51.39)",Health,01,Certificate(<1 year),335.0,67.0,0.2,25515.0,29786.0,36608.0,False,False
+0528,Trinidad State College,1312,"Teacher Education and Professional Development, Specific Levels and Methods.(13.12)",Education,02,Certificate(>1 year),15.0,,,,,,False,True
+6109,Pickens Technical College,5126,Health Aides/Attendants/Orderlies.(51.26),Health,01,Certificate(<1 year),,,,,,,True,True
+0491,Community College of Aurora,5007,Fine and Studio Arts.(50.07),"Arts, Humanities and Communication",01,Certificate(<1 year),,,,,,,True,True
+0522,Otero College,4600,"Construction Trades, General.(46.00)",Trades,01,Certificate(<1 year),,,,,,,True,True
+0534,University of Denver,901,Communication and Media Studies.(09.01),"Arts, Humanities and Communication",01,Certificate(<1 year),,,,,,,True,True
+0505,Aims Community College,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.(51.09)",Health,02,Certificate(>1 year),68.0,56.0,0.82,65099.0,77072.0,85842.0,False,False
+0514,Lamar Community College,1312,"Teacher Education and Professional Development, Specific Levels and Methods.(13.12)",Education,01,Certificate(<1 year),14.0,,,,,,False,True
+6326,Technical College of the Rockies,4602,Carpenters.(46.02),Trades,01,Certificate(<1 year),,,,,,,True,True
+0497,Arapahoe Community College,1109,Computer Systems Networking and Telecommunications.(11.09),"Science, Technology, Engineering and Math",01,Certificate(<1 year),61.0,31.0,0.51,33056.0,51099.0,59863.0,False,False
+0497,Arapahoe Community College,4604,"Building/Construction Finishing, Management, and Inspection.(46.04)",Trades,01,Certificate(<1 year),26.0,20.0,0.77,42531.0,60373.0,75708.0,False,False
+0511,Community College of Denver,5005,Drama/Theatre Arts and Stagecraft.(50.05),"Arts, Humanities and Communication",01,Certificate(<1 year),,,,,,,True,True
+5124,Emily Griffith Technical College,1906,Housing and Human Environments.(19.06),Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),,,,,,,True,True
+0491,Community College of Aurora,4600,"Construction Trades, General.(46.00)",Trades,01,Certificate(<1 year),,,,,,,True,True
+0507,Front Range Community College,5004,Design and Applied Arts.(50.04),"Arts, Humanities and Communication",02,Certificate(>1 year),18.0,10.0,0.56,42577.0,48827.0,56314.0,False,False
+0491,Community College of Aurora,5214,Marketing.(52.14),Business,01,Certificate(<1 year),,,,,,,True,True
+0518,Colorado Mesa University,4301,Criminal Justice and Corrections.(43.01),Trades,02,Certificate(>1 year),18.0,17.0,0.94,33706.0,73304.0,83217.0,False,False
+0507,Front Range Community College,4301,Criminal Justice and Corrections.(43.01),Trades,02,Certificate(>1 year),147.0,137.0,0.93,59238.0,78776.0,88836.0,False,False
+0519,Metropolitan State University of Denver,301,Natural Resources Conservation and Research.(03.01),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0514,Lamar Community College,1312,"Teacher Education and Professional Development, Specific Levels and Methods.(13.12)",Education,02,Certificate(>1 year),,,,,,,True,True
+0507,Front Range Community College,106,Applied Horticulture and Horticultural Business Services.(01.06),"Science, Technology, Engineering and Math",01,Certificate(<1 year),154.0,64.0,0.42,32299.0,41149.0,57080.0,False,False
+0509,Pikes Peak State College,1312,"Teacher Education and Professional Development, Specific Levels and Methods.(13.12)",Education,02,Certificate(>1 year),91.0,31.0,0.34,31784.0,36041.0,45911.0,False,False
+5124,Emily Griffith Technical College,1909,Apparel and Textiles.(19.09),Social and Behavioral Sciences and Human Services,02,Certificate(>1 year),24.0,,,,,,False,True
+0501,Colorado Mountain College,1110,Computer/Information Technology Administration and Management.(11.10),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+5124,Emily Griffith Technical College,4699,"Construction Trades, Other.(46.99)",Trades,01,Certificate(<1 year),,,,,,,True,True
+0501,Colorado Mountain College,4706,Vehicle Maintenance and Repair Technologies/Technicians.(47.06),Trades,01,Certificate(<1 year),275.0,72.0,0.26,27653.0,37807.0,48590.0,False,False
+0492,Pueblo Community College,4703,Heavy/Industrial Equipment Maintenance Technologies/Technicians.(47.03),Trades,01,Certificate(<1 year),,,,,,,True,True
+0497,Arapahoe Community College,1110,Computer/Information Technology Administration and Management.(11.10),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0509,Pikes Peak State College,5202,"Business Administration, Management and Operations.(52.02)",Business,02,Certificate(>1 year),47.0,16.0,0.34,44622.0,51207.0,67351.0,False,False
+0528,Trinidad State College,1507,Quality Control and Safety Technologies/Technicians.(15.07),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0507,Front Range Community College,1501,Architectural Engineering Technologies/Technicians.(15.01),"Science, Technology, Engineering and Math",01,Certificate(<1 year),29.0,14.0,0.48,37131.0,48371.0,62473.0,False,False
+0544,Morgan Community College,5108,Allied Health and Medical Assisting Services.(51.08),Health,02,Certificate(>1 year),12.0,,,,,,False,True
+5124,Emily Griffith Technical College,4706,Vehicle Maintenance and Repair Technologies/Technicians.(47.06),Trades,02,Certificate(>1 year),415.0,206.0,0.5,28650.0,38881.0,47288.0,False,False
+0520,Northeastern Junior College,1312,"Teacher Education and Professional Development, Specific Levels and Methods.(13.12)",Education,01,Certificate(<1 year),15.0,,,,,,False,True
+0509,Pikes Peak State College,2203,Legal Support Services.(22.03),Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),30.0,15.0,0.5,39992.0,46530.0,64134.0,False,False
+0491,Community College of Aurora,5009,Music.(50.09),"Arts, Humanities and Communication",02,Certificate(>1 year),,,,,,,True,True
+0544,Morgan Community College,5202,"Business Administration, Management and Operations.(52.02)",Business,02,Certificate(>1 year),,,,,,,True,True
+0528,Trinidad State College,4301,Criminal Justice and Corrections.(43.01),Trades,02,Certificate(>1 year),109.0,84.0,0.77,35853.0,47370.0,57874.0,False,False
+0544,Morgan Community College,103,Agricultural Production Operations.(01.03),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0511,Community College of Denver,1312,"Teacher Education and Professional Development, Specific Levels and Methods.(13.12)",Education,01,Certificate(<1 year),668.0,252.0,0.38,23790.0,30855.0,38312.0,False,False
+0507,Front Range Community College,5108,Allied Health and Medical Assisting Services.(51.08),Health,01,Certificate(<1 year),643.0,323.0,0.5,27530.0,37494.0,44692.0,False,False
+0528,Trinidad State College,4600,"Construction Trades, General.(46.00)",Trades,01,Certificate(<1 year),27.0,,,,,,False,True
+6109,Pickens Technical College,1907,"Human Development, Family Studies, and Related Services.(19.07)",Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),,,,,,,True,True
+0492,Pueblo Community College,5202,"Business Administration, Management and Operations.(52.02)",Business,01,Certificate(<1 year),28.0,17.0,0.61,95553.0,115292.0,136373.0,False,False
+0508,Red Rocks Community College,3101,"Parks, Recreation, and Leisure Studies.(31.01)",Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),63.0,,,,,,False,True
+0528,Trinidad State College,5115,Mental and Social Health Services and Allied Professions.(51.15),Health,01,Certificate(<1 year),19.0,,,,,,False,True
+0518,Colorado Mesa University,5204,Business Operations Support and Assistant Services.(52.04),Business,01,Certificate(<1 year),73.0,12.0,0.16,27727.0,30715.0,36102.0,False,False
+5124,Emily Griffith Technical College,4702,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).(47.02)",Trades,02,Certificate(>1 year),185.0,144.0,0.78,32905.0,46565.0,59177.0,False,False
+0522,Otero College,5202,"Business Administration, Management and Operations.(52.02)",Business,01,Certificate(<1 year),,,,,,,True,True
+4504,CSU-Global Campus,5210,Human Resources Management and Services.(52.10),Business,01,Certificate(<1 year),29.0,10.0,0.34,46097.0,65291.0,73599.0,False,False
+0501,Colorado Mountain College,4301,Criminal Justice and Corrections.(43.01),Trades,01,Certificate(<1 year),292.0,260.0,0.89,58767.0,73813.0,85430.0,False,False
+0507,Front Range Community College,5001,"Visual and Performing Arts, General.(50.01)","Arts, Humanities and Communication",02,Certificate(>1 year),,,,,,,True,True
+0518,Colorado Mesa University,302,Environmental/Natural Resources Management and Policy.(03.02),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0505,Aims Community College,1110,Computer/Information Technology Administration and Management.(11.10),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0492,Pueblo Community College,4302,Fire Protection.(43.02),Trades,01,Certificate(<1 year),314.0,87.0,0.28,29642.0,46955.0,57458.0,False,False
+0518,Colorado Mesa University,4805,Precision Metal Working.(48.05),Trades,01,Certificate(<1 year),111.0,43.0,0.39,28937.0,34929.0,45726.0,False,False
+0518,Colorado Mesa University,1504,Electromechanical Technologies/Technicians.(15.04),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0491,Community College of Aurora,1110,Computer/Information Technology Administration and Management.(11.10),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0491,Community College of Aurora,1107,Computer Science.(11.07),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0491,Community College of Aurora,5210,Human Resources Management and Services.(52.10),Business,01,Certificate(<1 year),,,,,,,True,True
+0492,Pueblo Community College,5204,Business Operations Support and Assistant Services.(52.04),Business,01,Certificate(<1 year),,,,,,,True,True
+0525,Colorado Northwestern Community College,1312,"Teacher Education and Professional Development, Specific Levels and Methods.(13.12)",Education,02,Certificate(>1 year),34.0,18.0,0.53,34371.0,40782.0,50321.0,False,False
+0520,Northeastern Junior College,1504,Electromechanical Technologies/Technicians.(15.04),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0505,Aims Community College,5004,Design and Applied Arts.(50.04),"Arts, Humanities and Communication",01,Certificate(<1 year),,,,,,,True,True
+0508,Red Rocks Community College,3103,"Parks, Recreation, and Leisure Facilities Management.(31.03)",Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),16.0,,,,,,False,True
+0509,Pikes Peak State College,4702,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).(47.02)",Trades,02,Certificate(>1 year),46.0,33.0,0.72,38378.0,46476.0,59312.0,False,False
+0509,Pikes Peak State College,4407,Social Work.(44.07),Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),,,,,,,True,True
+0520,Northeastern Junior College,1517,Energy Systems Technologies/Technicians.(15.17),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0507,Front Range Community College,1501,Architectural Engineering Technologies/Technicians.(15.01),"Science, Technology, Engineering and Math",02,Certificate(>1 year),10.0,,,,,,False,True
+0508,Red Rocks Community College,5106,Dental Support Services and Allied Professions.(51.06),Health,02,Certificate(>1 year),28.0,,,,,,False,True
+0511,Community College of Denver,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.(51.09)",Health,01,Certificate(<1 year),164.0,115.0,0.7,42719.0,71562.0,95518.0,False,False
+0528,Trinidad State College,5107,Health and Medical Administrative Services.(51.07),Health,02,Certificate(>1 year),70.0,28.0,0.4,27126.0,30933.0,35147.0,False,False
+0507,Front Range Community College,2203,Legal Support Services.(22.03),Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),19.0,,,,,,False,True
+0511,Community College of Denver,4304,Security Science and Technology.(43.04),Trades,01,Certificate(<1 year),10.0,,,,,,False,True
+0507,Front Range Community College,2203,Legal Support Services.(22.03),Social and Behavioral Sciences and Human Services,02,Certificate(>1 year),77.0,50.0,0.65,35581.0,47747.0,65490.0,False,False
+6109,Pickens Technical College,5106,Dental Support Services and Allied Professions.(51.06),Health,01,Certificate(<1 year),136.0,49.0,0.36,25127.0,29923.0,41438.0,False,False
+6326,Technical College of the Rockies,4706,Vehicle Maintenance and Repair Technologies/Technicians.(47.06),Trades,01,Certificate(<1 year),83.0,25.0,0.3,32307.0,36388.0,44988.0,False,False
+0505,Aims Community College,5199,"Health Professions and Related Clinical Sciences, Other.(51.99)",Health,01,Certificate(<1 year),172.0,17.0,0.1,25198.0,26400.0,29442.0,False,False
+0505,Aims Community College,1907,"Human Development, Family Studies, and Related Services.(19.07)",Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),115.0,41.0,0.36,30922.0,34852.0,39556.0,False,False
+0528,Trinidad State College,5106,Dental Support Services and Allied Professions.(51.06),Health,01,Certificate(<1 year),42.0,,,,,,False,True
+0508,Red Rocks Community College,1205,Culinary Arts and Related Services.(12.05),Trades,02,Certificate(>1 year),48.0,30.0,0.63,31293.0,45013.0,56348.0,False,False
+0528,Trinidad State College,5202,"Business Administration, Management and Operations.(52.02)",Business,02,Certificate(>1 year),,,,,,,True,True
+0511,Community College of Denver,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.(51.09)",Health,02,Certificate(>1 year),,,,,,,True,True
+0544,Morgan Community College,1003,Graphic Communications.(10.03),"Arts, Humanities and Communication",01,Certificate(<1 year),32.0,,,,,,False,True
+0509,Pikes Peak State College,4302,Fire Protection.(43.02),Trades,01,Certificate(<1 year),16.0,,,,,,False,True
+0508,Red Rocks Community College,1506,Industrial Production Technologies/Technicians.(15.06),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0514,Lamar Community College,5108,Allied Health and Medical Assisting Services.(51.08),Health,02,Certificate(>1 year),,,,,,,True,True
+0520,Northeastern Junior College,5202,"Business Administration, Management and Operations.(52.02)",Business,01,Certificate(<1 year),56.0,15.0,0.27,26336.0,30502.0,35376.0,False,False
+6109,Pickens Technical College,5004,Design and Applied Arts.(50.04),"Arts, Humanities and Communication",01,Certificate(<1 year),47.0,12.0,0.26,30200.0,36138.0,43726.0,False,False
+0507,Front Range Community College,4600,"Construction Trades, General.(46.00)",Trades,01,Certificate(<1 year),540.0,74.0,0.14,26737.0,30894.0,35938.0,False,False
+0520,Northeastern Junior College,5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.(51.39)",Health,01,Certificate(<1 year),46.0,15.0,0.33,27487.0,31291.0,36930.0,False,False
+0518,Colorado Mesa University,5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.(51.39)",Health,01,Certificate(<1 year),301.0,71.0,0.24,24888.0,30548.0,38452.0,False,False
+0509,Pikes Peak State College,4703,Heavy/Industrial Equipment Maintenance Technologies/Technicians.(47.03),Trades,02,Certificate(>1 year),,,,,,,True,True
+0491,Community College of Aurora,4604,"Building/Construction Finishing, Management, and Inspection.(46.04)",Trades,01,Certificate(<1 year),88.0,50.0,0.57,41864.0,55013.0,75416.0,False,False
+0507,Front Range Community College,5110,Clinical/Medical Laboratory Science/Research and Allied Professions.(51.10),Health,01,Certificate(<1 year),712.0,337.0,0.47,28671.0,36832.0,45307.0,False,False
+0508,Red Rocks Community College,1101,"Computer and Information Sciences, General.(11.01)","Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0505,Aims Community College,1315,Teaching Assistants/Aides.(13.15),Education,01,Certificate(<1 year),,,,,,,True,True
+0492,Pueblo Community College,4805,Precision Metal Working.(48.05),Trades,02,Certificate(>1 year),19.0,,,,,,False,True
+0497,Arapahoe Community College,1501,Architectural Engineering Technologies/Technicians.(15.01),"Science, Technology, Engineering and Math",01,Certificate(<1 year),85.0,41.0,0.48,25867.0,39923.0,58793.0,False,False
+0497,Arapahoe Community College,1312,"Teacher Education and Professional Development, Specific Levels and Methods.(13.12)",Education,02,Certificate(>1 year),16.0,,,,,,False,True
+0505,Aims Community College,5202,"Business Administration, Management and Operations.(52.02)",Business,01,Certificate(<1 year),,,,,,,True,True
+6109,Pickens Technical College,5204,Business Operations Support and Assistant Services.(52.04),Business,01,Certificate(<1 year),33.0,11.0,0.33,22538.0,30182.0,44052.0,False,False
+0511,Community College of Denver,1101,"Computer and Information Sciences, General.(11.01)","Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0525,Colorado Northwestern Community College,4706,Vehicle Maintenance and Repair Technologies/Technicians.(47.06),Trades,02,Certificate(>1 year),69.0,35.0,0.51,40491.0,51702.0,60381.0,False,False
+0509,Pikes Peak State College,1513,Drafting/Design Engineering Technologies/Technicians.(15.13),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0534,University of Denver,1101,"Computer and Information Sciences, General.(11.01)","Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0507,Front Range Community College,1503,Electrical/Electronic Engineering Technologies/Technicians.(15.03),"Science, Technology, Engineering and Math",01,Certificate(<1 year),25.0,17.0,0.68,35036.0,49229.0,66924.0,False,False
+6109,Pickens Technical College,3105,"Sports, Kinesiology, and Physical Education/Fitness.(31.05)",Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),13.0,,,,,,False,True
+0505,Aims Community College,101,Agricultural Business and Management.(01.01),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0507,Front Range Community College,1312,"Teacher Education and Professional Development, Specific Levels and Methods.(13.12)",Education,02,Certificate(>1 year),240.0,121.0,0.5,29706.0,39897.0,47679.0,False,False
+0505,Aims Community College,1506,Industrial Production Technologies/Technicians.(15.06),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0509,Pikes Peak State College,4805,Precision Metal Working.(48.05),Trades,01,Certificate(<1 year),927.0,365.0,0.39,30519.0,42077.0,53150.0,False,False
+0518,Colorado Mesa University,1205,Culinary Arts and Related Services.(12.05),Trades,02,Certificate(>1 year),22.0,,,,,,False,True
+0525,Colorado Northwestern Community College,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.(51.09)",Health,01,Certificate(<1 year),40.0,29.0,0.72,45713.0,58964.0,109592.0,False,False
+0520,Northeastern Junior College,101,Agricultural Business and Management.(01.01),"Science, Technology, Engineering and Math",01,Certificate(<1 year),67.0,10.0,0.15,56430.0,62800.0,80435.0,False,False
+0492,Pueblo Community College,1506,Industrial Production Technologies/Technicians.(15.06),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0508,Red Rocks Community College,4604,"Building/Construction Finishing, Management, and Inspection.(46.04)",Trades,02,Certificate(>1 year),27.0,20.0,0.74,58007.0,83249.0,91166.0,False,False
+0497,Arapahoe Community College,3099,"Multi/Interdisciplinary Studies, Other.(30.99)","Arts, Humanities and Communication",02,Certificate(>1 year),,,,,,,True,True
+0528,Trinidad State College,1506,Industrial Production Technologies/Technicians.(15.06),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+5124,Emily Griffith Technical College,4902,Ground Transportation.(49.02),Trades,01,Certificate(<1 year),12.0,,,,,,False,True
+0528,Trinidad State College,5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.(51.38)",Health,02,Certificate(>1 year),55.0,33.0,0.6,37616.0,47139.0,56540.0,False,False
+0509,Pikes Peak State College,3105,"Sports, Kinesiology, and Physical Education/Fitness.(31.05)",Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),,,,,,,True,True
+0511,Community College of Denver,5108,Allied Health and Medical Assisting Services.(51.08),Health,02,Certificate(>1 year),15.0,10.0,0.67,24524.0,31161.0,36902.0,False,False
+0522,Otero College,5202,"Business Administration, Management and Operations.(52.02)",Business,02,Certificate(>1 year),,,,,,,True,True
+0509,Pikes Peak State College,5004,Design and Applied Arts.(50.04),"Arts, Humanities and Communication",01,Certificate(<1 year),14.0,,,,,,False,True
+0519,Metropolitan State University of Denver,1601,"Linguistic, Comparative, and Related Language Studies and Services.(16.01)","Arts, Humanities and Communication",01,Certificate(<1 year),10.0,,,,,,False,True
+0534,University of Denver,5107,Health and Medical Administrative Services.(51.07),Health,01,Certificate(<1 year),,,,,,,True,True
+0501,Colorado Mountain College,4302,Fire Protection.(43.02),Trades,01,Certificate(<1 year),155.0,106.0,0.68,35876.0,60037.0,75534.0,False,False
+0514,Lamar Community College,5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.(51.38)",Health,02,Certificate(>1 year),22.0,11.0,0.5,43009.0,48682.0,51329.0,False,False
+0520,Northeastern Junior College,4302,Fire Protection.(43.02),Trades,01,Certificate(<1 year),13.0,,,,,,False,True
+0544,Morgan Community College,5207,Entrepreneurial and Small Business Operations.(52.07),Business,01,Certificate(<1 year),110.0,43.0,0.39,41761.0,59310.0,75252.0,False,False
+6109,Pickens Technical College,5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.(51.39)",Health,01,Certificate(<1 year),285.0,135.0,0.47,29616.0,45424.0,62706.0,False,False
+0520,Northeastern Junior College,1504,Electromechanical Technologies/Technicians.(15.04),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0508,Red Rocks Community College,5210,Human Resources Management and Services.(52.10),Business,01,Certificate(<1 year),42.0,,,,,,False,True
+0497,Arapahoe Community College,4301,Criminal Justice and Corrections.(43.01),Trades,01,Certificate(<1 year),16.0,,,,,,False,True
+0497,Arapahoe Community College,5108,Allied Health and Medical Assisting Services.(51.08),Health,01,Certificate(<1 year),118.0,67.0,0.57,36099.0,42754.0,46730.0,False,False
+0507,Front Range Community College,5135,Somatic Bodywork and Related Therapeutic Services.(51.35),Health,01,Certificate(<1 year),32.0,,,,,,False,True
+0492,Pueblo Community College,1102,Computer Programming.(11.02),"Science, Technology, Engineering and Math",01,Certificate(<1 year),11.0,,,,,,False,True
+0525,Colorado Northwestern Community College,1312,"Teacher Education and Professional Development, Specific Levels and Methods.(13.12)",Education,01,Certificate(<1 year),17.0,,,,,,False,True
+0497,Arapahoe Community College,1312,"Teacher Education and Professional Development, Specific Levels and Methods.(13.12)",Education,01,Certificate(<1 year),103.0,36.0,0.35,26636.0,31049.0,40401.0,False,False
+0508,Red Rocks Community College,4702,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).(47.02)",Trades,01,Certificate(<1 year),10.0,,,,,,False,True
+0544,Morgan Community College,3105,"Sports, Kinesiology, and Physical Education/Fitness.(31.05)",Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),,,,,,,True,True
+5124,Emily Griffith Technical College,1102,Computer Programming.(11.02),"Science, Technology, Engineering and Math",02,Certificate(>1 year),11.0,,,,,,False,True
+0505,Aims Community College,1101,"Computer and Information Sciences, General.(11.01)","Science, Technology, Engineering and Math",01,Certificate(<1 year),27.0,10.0,0.37,51998.0,69092.0,77173.0,False,False
+0519,Metropolitan State University of Denver,302,Environmental/Natural Resources Management and Policy.(03.02),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0511,Community College of Denver,1312,"Teacher Education and Professional Development, Specific Levels and Methods.(13.12)",Education,02,Certificate(>1 year),85.0,34.0,0.4,32890.0,39509.0,48537.0,False,False
+0505,Aims Community College,1513,Drafting/Design Engineering Technologies/Technicians.(15.13),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0497,Arapahoe Community College,5218,"General Sales, Merchandising and Related Marketing Operations.(52.18)",Business,02,Certificate(>1 year),,,,,,,True,True
+0544,Morgan Community College,1907,"Human Development, Family Studies, and Related Services.(19.07)",Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),40.0,16.0,0.4,25367.0,32627.0,37054.0,False,False
+0518,Colorado Mesa University,1907,"Human Development, Family Studies, and Related Services.(19.07)",Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),145.0,53.0,0.37,26854.0,31019.0,33927.0,False,False
+0507,Front Range Community College,1513,Drafting/Design Engineering Technologies/Technicians.(15.13),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+6326,Technical College of the Rockies,1204,Cosmetology and Related Personal Grooming Services.(12.04),Trades,01,Certificate(<1 year),371.0,59.0,0.16,24837.0,28087.0,35114.0,False,False
+0511,Community College of Denver,5115,Mental and Social Health Services and Allied Professions.(51.15),Health,01,Certificate(<1 year),29.0,,,,,,False,True
+0508,Red Rocks Community College,302,Environmental/Natural Resources Management and Policy.(03.02),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0507,Front Range Community College,5133,Alternative and Complementary Medicine and Medical Systems.(51.33),Health,02,Certificate(>1 year),22.0,,,,,,False,True
+0509,Pikes Peak State College,4604,"Building/Construction Finishing, Management, and Inspection.(46.04)",Trades,01,Certificate(<1 year),71.0,14.0,0.2,33578.0,37043.0,43772.0,False,False
+5124,Emily Griffith Technical College,4199,"Science Technologies/Technicians, Other.(41.99)","Science, Technology, Engineering and Math",02,Certificate(>1 year),15.0,,,,,,False,True
+0528,Trinidad State College,5204,Business Operations Support and Assistant Services.(52.04),Business,01,Certificate(<1 year),,,,,,,True,True
+0509,Pikes Peak State College,4702,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).(47.02)",Trades,01,Certificate(<1 year),17.0,,,,,,False,True
+0509,Pikes Peak State College,1101,"Computer and Information Sciences, General.(11.01)","Science, Technology, Engineering and Math",01,Certificate(<1 year),111.0,48.0,0.43,40255.0,54352.0,75652.0,False,False
+0522,Otero College,5110,Clinical/Medical Laboratory Science/Research and Allied Professions.(51.10),Health,01,Certificate(<1 year),51.0,19.0,0.37,26779.0,34406.0,44384.0,False,False
+0514,Lamar Community College,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.(51.09)",Health,01,Certificate(<1 year),17.0,12.0,0.71,36451.0,51662.0,66424.0,False,False
+0497,Arapahoe Community College,5108,Allied Health and Medical Assisting Services.(51.08),Health,02,Certificate(>1 year),15.0,11.0,0.73,37579.0,40173.0,42487.0,False,False
+6326,Technical College of the Rockies,5135,Somatic Bodywork and Related Therapeutic Services.(51.35),Health,01,Certificate(<1 year),73.0,14.0,0.19,24349.0,28216.0,37331.0,False,False
+0518,Colorado Mesa University,1503,Electrical/Electronic Engineering Technologies/Technicians.(15.03),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+5124,Emily Griffith Technical College,5106,Dental Support Services and Allied Professions.(51.06),Health,01,Certificate(<1 year),150.0,76.0,0.51,26988.0,33614.0,39255.0,False,False
+0491,Community College of Aurora,5006,Film/Video and Photographic Arts.(50.06),"Arts, Humanities and Communication",01,Certificate(<1 year),135.0,40.0,0.3,25578.0,35019.0,45710.0,False,False
+0514,Lamar Community College,5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.(51.39)",Health,01,Certificate(<1 year),106.0,15.0,0.14,26665.0,27599.0,29937.0,False,False
+0509,Pikes Peak State College,4301,Criminal Justice and Corrections.(43.01),Trades,02,Certificate(>1 year),328.0,237.0,0.72,48157.0,61486.0,71456.0,False,False
+0508,Red Rocks Community College,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.(51.09)",Health,01,Certificate(<1 year),926.0,455.0,0.49,29168.0,40352.0,55948.0,False,False
+5124,Emily Griffith Technical College,4805,Precision Metal Working.(48.05),Trades,02,Certificate(>1 year),347.0,189.0,0.54,33751.0,44613.0,56064.0,False,False
+0509,Pikes Peak State College,4706,Vehicle Maintenance and Repair Technologies/Technicians.(47.06),Trades,01,Certificate(<1 year),1036.0,400.0,0.39,31563.0,37667.0,48875.0,False,False
+0492,Pueblo Community College,1204,Cosmetology and Related Personal Grooming Services.(12.04),Trades,02,Certificate(>1 year),113.0,23.0,0.2,26472.0,28379.0,36860.0,False,False
+0511,Community College of Denver,183,Veterinary/Animal Health Technologies/Technicians.(01.83),"Science, Technology, Engineering and Math",01,Certificate(<1 year),55.0,28.0,0.51,29574.0,33666.0,37485.0,False,False
+0511,Community College of Denver,4805,Precision Metal Working.(48.05),Trades,01,Certificate(<1 year),210.0,94.0,0.45,33750.0,51008.0,61337.0,False,False
+0492,Pueblo Community College,1312,"Teacher Education and Professional Development, Specific Levels and Methods.(13.12)",Education,01,Certificate(<1 year),258.0,69.0,0.27,26742.0,30326.0,36245.0,False,False
+5124,Emily Griffith Technical College,1506,Industrial Production Technologies/Technicians.(15.06),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0522,Otero College,1312,"Teacher Education and Professional Development, Specific Levels and Methods.(13.12)",Education,01,Certificate(<1 year),12.0,,,,,,False,True
+0492,Pueblo Community College,1205,Culinary Arts and Related Services.(12.05),Trades,01,Certificate(<1 year),35.0,,,,,,False,True
+0511,Community College of Denver,5212,Management Information Systems and Services.(52.12),Business,01,Certificate(<1 year),61.0,21.0,0.34,43456.0,48348.0,63522.0,False,False
+0514,Lamar Community College,5203,Accounting and Related Services.(52.03),Business,01,Certificate(<1 year),,,,,,,True,True
+0519,Metropolitan State University of Denver,1506,Industrial Production Technologies/Technicians.(15.06),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0508,Red Rocks Community College,1109,Computer Systems Networking and Telecommunications.(11.09),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0509,Pikes Peak State College,1104,Information Science/Studies.(11.04),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0497,Arapahoe Community College,4706,Vehicle Maintenance and Repair Technologies/Technicians.(47.06),Trades,01,Certificate(<1 year),274.0,78.0,0.28,27503.0,32235.0,39044.0,False,False
+6326,Technical College of the Rockies,1513,Drafting/Design Engineering Technologies/Technicians.(15.13),"Science, Technology, Engineering and Math",01,Certificate(<1 year),67.0,15.0,0.22,31511.0,34458.0,37315.0,False,False
+6326,Technical College of the Rockies,4702,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).(47.02)",Trades,01,Certificate(<1 year),,,,,,,True,True
+0508,Red Rocks Community College,5202,"Business Administration, Management and Operations.(52.02)",Business,01,Certificate(<1 year),633.0,103.0,0.16,30962.0,50319.0,64864.0,False,False
+0507,Front Range Community College,5135,Somatic Bodywork and Related Therapeutic Services.(51.35),Health,02,Certificate(>1 year),,,,,,,True,True
+5124,Emily Griffith Technical College,5110,Clinical/Medical Laboratory Science/Research and Allied Professions.(51.10),Health,01,Certificate(<1 year),305.0,122.0,0.4,30217.0,37349.0,44830.0,False,False
+0508,Red Rocks Community College,5110,Clinical/Medical Laboratory Science/Research and Allied Professions.(51.10),Health,01,Certificate(<1 year),129.0,62.0,0.48,28585.0,35407.0,44040.0,False,False
+0497,Arapahoe Community College,1204,Cosmetology and Related Personal Grooming Services.(12.04),Trades,01,Certificate(<1 year),30.0,,,,,,False,True
+0508,Red Rocks Community College,5202,"Business Administration, Management and Operations.(52.02)",Business,02,Certificate(>1 year),,,,,,,True,True
+0508,Red Rocks Community College,302,Environmental/Natural Resources Management and Policy.(03.02),"Science, Technology, Engineering and Math",01,Certificate(<1 year),10.0,,,,,,False,True
+0508,Red Rocks Community College,1204,Cosmetology and Related Personal Grooming Services.(12.04),Trades,01,Certificate(<1 year),205.0,31.0,0.15,26830.0,29063.0,35959.0,False,False
+6326,Technical College of the Rockies,5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.(51.39)",Health,01,Certificate(<1 year),550.0,191.0,0.35,27177.0,35013.0,45652.0,False,False
+5124,Emily Griffith Technical College,5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.(51.39)",Health,01,Certificate(<1 year),1423.0,476.0,0.33,25468.0,33496.0,43714.0,False,False
+0501,Colorado Mountain College,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.(51.09)",Health,01,Certificate(<1 year),1090.0,585.0,0.54,32102.0,43024.0,59750.0,False,False
+0507,Front Range Community College,5106,Dental Support Services and Allied Professions.(51.06),Health,02,Certificate(>1 year),140.0,80.0,0.57,27459.0,32983.0,39088.0,False,False
+5124,Emily Griffith Technical College,4805,Precision Metal Working.(48.05),Trades,01,Certificate(<1 year),1763.0,1524.0,0.86,40728.0,54947.0,67123.0,False,False
+0522,Otero College,1204,Cosmetology and Related Personal Grooming Services.(12.04),Trades,01,Certificate(<1 year),18.0,,,,,,False,True
+0491,Community College of Aurora,5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.(51.39)",Health,01,Certificate(<1 year),235.0,97.0,0.41,30883.0,39180.0,45391.0,False,False
+0492,Pueblo Community College,103,Agricultural Production Operations.(01.03),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0501,Colorado Mountain College,1312,"Teacher Education and Professional Development, Specific Levels and Methods.(13.12)",Education,02,Certificate(>1 year),40.0,22.0,0.55,37405.0,51047.0,54971.0,False,False
+0522,Otero College,5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.(51.39)",Health,01,Certificate(<1 year),214.0,52.0,0.24,24669.0,28602.0,32140.0,False,False
+6326,Technical College of the Rockies,5108,Allied Health and Medical Assisting Services.(51.08),Health,01,Certificate(<1 year),37.0,18.0,0.49,30972.0,33583.0,37015.0,False,False
+0505,Aims Community College,4706,Vehicle Maintenance and Repair Technologies/Technicians.(47.06),Trades,02,Certificate(>1 year),95.0,74.0,0.78,36936.0,47194.0,56263.0,False,False
+0519,Metropolitan State University of Denver,4400,"Human Services, General.(44.00)",Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),,,,,,,True,True
+0508,Red Rocks Community College,5107,Health and Medical Administrative Services.(51.07),Health,02,Certificate(>1 year),15.0,,,,,,False,True
+0544,Morgan Community College,5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.(51.39)",Health,01,Certificate(<1 year),299.0,93.0,0.31,25249.0,30386.0,40243.0,False,False
+0507,Front Range Community College,5202,"Business Administration, Management and Operations.(52.02)",Business,01,Certificate(<1 year),2784.0,1193.0,0.43,37219.0,50293.0,66336.0,False,False
+0519,Metropolitan State University of Denver,5102,Communication Disorders Sciences and Services.(51.02),Health,02,Certificate(>1 year),,,,,,,True,True
+0507,Front Range Community College,5209,Hospitality Administration/Management.(52.09),Business,01,Certificate(<1 year),58.0,17.0,0.29,25449.0,32362.0,39506.0,False,False
+0508,Red Rocks Community College,4805,Precision Metal Working.(48.05),Trades,01,Certificate(<1 year),677.0,267.0,0.39,29255.0,35993.0,48393.0,False,False
+0518,Colorado Mesa University,1511,Engineering-Related Technologies/Technicians.(15.11),"Science, Technology, Engineering and Math",02,Certificate(>1 year),12.0,11.0,0.92,63822.0,86190.0,105457.0,False,False
+0525,Colorado Northwestern Community College,4901,Air Transportation.(49.01),Trades,01,Certificate(<1 year),25.0,,,,,,False,True
+0522,Otero College,101,Agricultural Business and Management.(01.01),"Science, Technology, Engineering and Math",01,Certificate(<1 year),399.0,75.0,0.19,34953.0,48126.0,66307.0,False,False
+5124,Emily Griffith Technical College,5106,Dental Support Services and Allied Professions.(51.06),Health,02,Certificate(>1 year),11.0,,,,,,False,True
+0509,Pikes Peak State College,1513,Drafting/Design Engineering Technologies/Technicians.(15.13),"Science, Technology, Engineering and Math",01,Certificate(<1 year),164.0,67.0,0.41,42211.0,51852.0,61831.0,False,False
+0523,Colorado Christian University,5203,Accounting and Related Services.(52.03),Business,01,Certificate(<1 year),,,,,,,True,True
+0507,Front Range Community College,1503,Electrical/Electronic Engineering Technologies/Technicians.(15.03),"Science, Technology, Engineering and Math",02,Certificate(>1 year),10.0,,,,,,False,True
+0505,Aims Community College,5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.(51.39)",Health,01,Certificate(<1 year),882.0,312.0,0.35,25167.0,32301.0,42721.0,False,False
+0509,Pikes Peak State College,3199,"Parks, Recreation, Leisure, Fitness, and Kinesiology, Other.(31.99)",Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),17.0,,,,,,False,True
+0508,Red Rocks Community College,3101,"Parks, Recreation, and Leisure Studies.(31.01)",Social and Behavioral Sciences and Human Services,02,Certificate(>1 year),18.0,,,,,,False,True
+0508,Red Rocks Community College,4807,Woodworking.(48.07),Trades,01,Certificate(<1 year),292.0,107.0,0.37,42245.0,56848.0,92768.0,False,False
+0507,Front Range Community College,5216,Taxation.(52.16),Business,01,Certificate(<1 year),,,,,,,True,True
+0491,Community College of Aurora,5215,Real Estate.(52.15),Business,01,Certificate(<1 year),24.0,,,,,,False,True
+0520,Northeastern Junior College,105,Agricultural and Domestic Animal Services.(01.05),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0491,Community College of Aurora,5203,Accounting and Related Services.(52.03),Business,01,Certificate(<1 year),49.0,24.0,0.49,44240.0,48885.0,76303.0,False,False
+6326,Technical College of the Rockies,5204,Business Operations Support and Assistant Services.(52.04),Business,01,Certificate(<1 year),23.0,,,,,,False,True
+0511,Community College of Denver,5204,Business Operations Support and Assistant Services.(52.04),Business,01,Certificate(<1 year),23.0,,,,,,False,True
+0525,Colorado Northwestern Community College,5202,"Business Administration, Management and Operations.(52.02)",Business,01,Certificate(<1 year),,,,,,,True,True
+0525,Colorado Northwestern Community College,302,Environmental/Natural Resources Management and Policy.(03.02),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0528,Trinidad State College,4706,Vehicle Maintenance and Repair Technologies/Technicians.(47.06),Trades,02,Certificate(>1 year),104.0,35.0,0.34,24974.0,32302.0,41949.0,False,False
+0507,Front Range Community College,1003,Graphic Communications.(10.03),"Arts, Humanities and Communication",01,Certificate(<1 year),250.0,54.0,0.22,33458.0,41468.0,56782.0,False,False
+0511,Community College of Denver,5110,Clinical/Medical Laboratory Science/Research and Allied Professions.(51.10),Health,01,Certificate(<1 year),50.0,19.0,0.38,32339.0,39109.0,48894.0,False,False
+0508,Red Rocks Community College,5004,Design and Applied Arts.(50.04),"Arts, Humanities and Communication",01,Certificate(<1 year),26.0,,,,,,False,True
+5124,Emily Griffith Technical College,1513,Drafting/Design Engineering Technologies/Technicians.(15.13),"Science, Technology, Engineering and Math",02,Certificate(>1 year),73.0,43.0,0.59,34854.0,46702.0,55144.0,False,False
+0525,Colorado Northwestern Community College,199,"Agricultural/Animal/Plant/Veterinary Science and Related Fields, Other.(01.99)","Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0520,Northeastern Junior College,5207,Entrepreneurial and Small Business Operations.(52.07),Business,01,Certificate(<1 year),,,,,,,True,True
+0508,Red Rocks Community College,4303,Homeland Security.(43.03),Trades,01,Certificate(<1 year),,,,,,,True,True
+5124,Emily Griffith Technical College,4701,Electrical/Electronics Maintenance and Repair Technologies/Technicians.(47.01),Trades,01,Certificate(<1 year),244.0,197.0,0.81,41979.0,52493.0,65146.0,False,False
+0519,Metropolitan State University of Denver,1418,Materials Engineering.(14.18),"Science, Technology, Engineering and Math",01,Certificate(<1 year),13.0,,,,,,False,True
+6109,Pickens Technical College,1513,Drafting/Design Engineering Technologies/Technicians.(15.13),"Science, Technology, Engineering and Math",01,Certificate(<1 year),20.0,11.0,0.55,28838.0,33299.0,53388.0,False,False
+0497,Arapahoe Community College,5110,Clinical/Medical Laboratory Science/Research and Allied Professions.(51.10),Health,01,Certificate(<1 year),180.0,90.0,0.5,29193.0,35055.0,44901.0,False,False
+0501,Colorado Mountain College,1101,"Computer and Information Sciences, General.(11.01)","Science, Technology, Engineering and Math",01,Certificate(<1 year),135.0,87.0,0.64,35874.0,57587.0,74696.0,False,False
+0511,Community College of Denver,409,Architectural Sciences and Technology.(04.09),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0518,Colorado Mesa University,5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.(51.39)",Health,02,Certificate(>1 year),72.0,46.0,0.64,27023.0,38007.0,46030.0,False,False
+6109,Pickens Technical College,4699,"Construction Trades, Other.(46.99)",Trades,01,Certificate(<1 year),36.0,10.0,0.28,29548.0,44099.0,56412.0,False,False
+0508,Red Rocks Community College,1205,Culinary Arts and Related Services.(12.05),Trades,01,Certificate(<1 year),134.0,10.0,0.07,28657.0,33006.0,37929.0,False,False
+0491,Community College of Aurora,5005,Drama/Theatre Arts and Stagecraft.(50.05),"Arts, Humanities and Communication",01,Certificate(<1 year),,,,,,,True,True
+0509,Pikes Peak State College,4805,Precision Metal Working.(48.05),Trades,02,Certificate(>1 year),44.0,18.0,0.41,27307.0,34776.0,44764.0,False,False
+0544,Morgan Community College,4706,Vehicle Maintenance and Repair Technologies/Technicians.(47.06),Trades,02,Certificate(>1 year),27.0,11.0,0.41,33572.0,36799.0,41817.0,False,False
+0509,Pikes Peak State College,1505,Environmental Control Technologies/Technicians.(15.05),"Science, Technology, Engineering and Math",01,Certificate(<1 year),30.0,20.0,0.67,30564.0,61422.0,70077.0,False,False
+0522,Otero College,103,Agricultural Production Operations.(01.03),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0507,Front Range Community College,1002,Audiovisual Communications Technologies/Technicians.(10.02),"Arts, Humanities and Communication",01,Certificate(<1 year),29.0,,,,,,False,True
+0544,Morgan Community College,1504,Electromechanical Technologies/Technicians.(15.04),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0522,Otero College,4706,Vehicle Maintenance and Repair Technologies/Technicians.(47.06),Trades,02,Certificate(>1 year),,,,,,,True,True
+0491,Community College of Aurora,1601,"Linguistic, Comparative, and Related Language Studies and Services.(16.01)","Arts, Humanities and Communication",01,Certificate(<1 year),72.0,34.0,0.47,32931.0,48084.0,58650.0,False,False
+0520,Northeastern Junior College,101,Agricultural Business and Management.(01.01),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0528,Trinidad State College,101,Agricultural Business and Management.(01.01),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0497,Arapahoe Community College,5202,"Business Administration, Management and Operations.(52.02)",Business,01,Certificate(<1 year),84.0,54.0,0.64,43788.0,59290.0,84035.0,False,False
+0518,Colorado Mesa University,3105,"Sports, Kinesiology, and Physical Education/Fitness.(31.05)",Social and Behavioral Sciences and Human Services,02,Certificate(>1 year),,,,,,,True,True
+0544,Morgan Community College,4805,Precision Metal Working.(48.05),Trades,01,Certificate(<1 year),,,,,,,True,True
+0544,Morgan Community College,1109,Computer Systems Networking and Telecommunications.(11.09),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+5124,Emily Griffith Technical College,4603,Electrical and Power Transmission Installers.(46.03),Trades,01,Certificate(<1 year),14438.0,12156.0,0.84,37253.0,52431.0,66293.0,False,False
+0509,Pikes Peak State College,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.(51.09)",Health,02,Certificate(>1 year),13.0,11.0,0.85,70114.0,79664.0,93254.0,False,False
+0536,Western Colorado University,4507,Geography and Cartography.(45.07),Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),,,,,,,True,True
+0524,Colorado State University - Pueblo,1110,Computer/Information Technology Administration and Management.(11.10),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0497,Arapahoe Community College,5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.(51.38)",Health,02,Certificate(>1 year),17.0,12.0,0.71,45026.0,58979.0,73255.0,False,False
+0507,Front Range Community College,5201,"Business/Commerce, General.(52.01)",Business,01,Certificate(<1 year),,,,,,,True,True
+0497,Arapahoe Community College,1907,"Human Development, Family Studies, and Related Services.(19.07)",Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),475.0,175.0,0.37,26833.0,31628.0,42364.0,False,False
+0544,Morgan Community College,5135,Somatic Bodywork and Related Therapeutic Services.(51.35),Health,02,Certificate(>1 year),,,,,,,True,True
+0528,Trinidad State College,5202,"Business Administration, Management and Operations.(52.02)",Business,01,Certificate(<1 year),70.0,10.0,0.14,30349.0,34666.0,44604.0,False,False
+0505,Aims Community College,5107,Health and Medical Administrative Services.(51.07),Health,01,Certificate(<1 year),59.0,25.0,0.42,29632.0,33689.0,41307.0,False,False
+0501,Colorado Mountain College,1301,"Education, General.(13.01)",Education,02,Certificate(>1 year),,,,,,,True,True
+5124,Emily Griffith Technical College,1505,Environmental Control Technologies/Technicians.(15.05),"Science, Technology, Engineering and Math",01,Certificate(<1 year),87.0,55.0,0.63,35259.0,46500.0,57672.0,False,False
+0491,Community College of Aurora,1101,"Computer and Information Sciences, General.(11.01)","Science, Technology, Engineering and Math",01,Certificate(<1 year),11.0,,,,,,False,True
+0519,Metropolitan State University of Denver,4901,Air Transportation.(49.01),Trades,01,Certificate(<1 year),,,,,,,True,True
+0508,Red Rocks Community College,4706,Vehicle Maintenance and Repair Technologies/Technicians.(47.06),Trades,01,Certificate(<1 year),674.0,196.0,0.29,29194.0,33344.0,40346.0,False,False
+0507,Front Range Community College,1513,Drafting/Design Engineering Technologies/Technicians.(15.13),"Science, Technology, Engineering and Math",01,Certificate(<1 year),263.0,101.0,0.38,37481.0,46997.0,66413.0,False,False
+0520,Northeastern Junior College,5201,"Business/Commerce, General.(52.01)",Business,01,Certificate(<1 year),,,,,,,True,True
+0528,Trinidad State College,103,Agricultural Production Operations.(01.03),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0508,Red Rocks Community College,1204,Cosmetology and Related Personal Grooming Services.(12.04),Trades,02,Certificate(>1 year),154.0,35.0,0.23,23463.0,29033.0,36011.0,False,False
+0492,Pueblo Community College,4301,Criminal Justice and Corrections.(43.01),Trades,01,Certificate(<1 year),408.0,327.0,0.8,46056.0,58947.0,69741.0,False,False
+0501,Colorado Mountain College,5110,Clinical/Medical Laboratory Science/Research and Allied Professions.(51.10),Health,01,Certificate(<1 year),83.0,42.0,0.51,28881.0,36697.0,47043.0,False,False
+0501,Colorado Mountain College,5219,"Specialized Sales, Merchandising and  Marketing Operations.(52.19)",Business,01,Certificate(<1 year),,,,,,,True,True
+4504,CSU-Global Campus,1101,"Computer and Information Sciences, General.(11.01)","Science, Technology, Engineering and Math",01,Certificate(<1 year),346.0,67.0,0.19,38741.0,65396.0,88633.0,False,False
+0528,Trinidad State College,103,Agricultural Production Operations.(01.03),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0491,Community College of Aurora,4301,Criminal Justice and Corrections.(43.01),Trades,01,Certificate(<1 year),24.0,,,,,,False,True
+0505,Aims Community College,4805,Precision Metal Working.(48.05),Trades,02,Certificate(>1 year),148.0,92.0,0.62,33717.0,44517.0,57476.0,False,False
+0497,Arapahoe Community College,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.(51.09)",Health,02,Certificate(>1 year),93.0,88.0,0.95,71305.0,93939.0,104406.0,False,False
+0505,Aims Community College,1907,"Human Development, Family Studies, and Related Services.(19.07)",Social and Behavioral Sciences and Human Services,02,Certificate(>1 year),13.0,,,,,,False,True
+0492,Pueblo Community College,5202,"Business Administration, Management and Operations.(52.02)",Business,02,Certificate(>1 year),,,,,,,True,True
+0511,Community College of Denver,4805,Precision Metal Working.(48.05),Trades,02,Certificate(>1 year),34.0,22.0,0.65,39544.0,48976.0,54576.0,False,False
+0514,Lamar Community College,1204,Cosmetology and Related Personal Grooming Services.(12.04),Trades,02,Certificate(>1 year),87.0,,,,,,False,True
+0520,Northeastern Junior College,5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.(51.38)",Health,02,Certificate(>1 year),,,,,,,True,True
+0544,Morgan Community College,5202,"Business Administration, Management and Operations.(52.02)",Business,01,Certificate(<1 year),31.0,10.0,0.32,34571.0,50677.0,75051.0,False,False
+0528,Trinidad State College,4902,Ground Transportation.(49.02),Trades,02,Certificate(>1 year),17.0,,,,,,False,True
+0508,Red Rocks Community College,1101,"Computer and Information Sciences, General.(11.01)","Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0510,Fort Lewis College,4507,Geography and Cartography.(45.07),Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),,,,,,,True,True
+0497,Arapahoe Community College,4301,Criminal Justice and Corrections.(43.01),Trades,02,Certificate(>1 year),295.0,250.0,0.85,49093.0,60657.0,77274.0,False,False
+0492,Pueblo Community College,5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.(51.39)",Health,02,Certificate(>1 year),48.0,26.0,0.54,36328.0,42879.0,49514.0,False,False
+0491,Community College of Aurora,5110,Clinical/Medical Laboratory Science/Research and Allied Professions.(51.10),Health,01,Certificate(<1 year),179.0,64.0,0.36,28388.0,39079.0,45450.0,False,False
+0508,Red Rocks Community College,4301,Criminal Justice and Corrections.(43.01),Trades,02,Certificate(>1 year),786.0,720.0,0.92,51864.0,76243.0,91035.0,False,False
+0523,Colorado Christian University,3902,Bible/Biblical Studies.(39.02),"Arts, Humanities and Communication",01,Certificate(<1 year),28.0,11.0,0.39,53990.0,58308.0,82788.0,False,False
+0492,Pueblo Community College,5209,Hospitality Administration/Management.(52.09),Business,01,Certificate(<1 year),,,,,,,True,True
+0518,Colorado Mesa University,4301,Criminal Justice and Corrections.(43.01),Trades,01,Certificate(<1 year),103.0,97.0,0.94,54099.0,74087.0,86796.0,False,False
+0508,Red Rocks Community College,5215,Real Estate.(52.15),Business,01,Certificate(<1 year),166.0,55.0,0.33,30958.0,43633.0,60221.0,False,False
+0544,Morgan Community College,4805,Precision Metal Working.(48.05),Trades,02,Certificate(>1 year),59.0,30.0,0.51,31668.0,40466.0,54456.0,False,False
+0544,Morgan Community College,5107,Health and Medical Administrative Services.(51.07),Health,02,Certificate(>1 year),,,,,,,True,True
+0519,Metropolitan State University of Denver,101,Agricultural Business and Management.(01.01),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+5124,Emily Griffith Technical College,5215,Real Estate.(52.15),Business,01,Certificate(<1 year),48.0,14.0,0.29,34187.0,46813.0,78168.0,False,False
+0508,Red Rocks Community College,5203,Accounting and Related Services.(52.03),Business,02,Certificate(>1 year),,,,,,,True,True
+0492,Pueblo Community College,1312,"Teacher Education and Professional Development, Specific Levels and Methods.(13.12)",Education,02,Certificate(>1 year),48.0,24.0,0.5,26884.0,29801.0,37028.0,False,False
+0511,Community College of Denver,409,Architectural Sciences and Technology.(04.09),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0507,Front Range Community College,5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.(51.38)",Health,02,Certificate(>1 year),18.0,13.0,0.72,42083.0,46227.0,72948.0,False,False
+0501,Colorado Mountain College,5203,Accounting and Related Services.(52.03),Business,02,Certificate(>1 year),21.0,15.0,0.71,40098.0,54039.0,62537.0,False,False
+0507,Front Range Community College,4702,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).(47.02)",Trades,02,Certificate(>1 year),,,,,,,True,True
+0507,Front Range Community College,4507,Geography and Cartography.(45.07),Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),217.0,109.0,0.5,34847.0,48708.0,60921.0,False,False
+0507,Front Range Community College,1312,"Teacher Education and Professional Development, Specific Levels and Methods.(13.12)",Education,01,Certificate(<1 year),858.0,280.0,0.33,27928.0,33541.0,40610.0,False,False
+0535,University of Colorado Colorado Springs,1312,"Teacher Education and Professional Development, Specific Levels and Methods.(13.12)",Education,02,Certificate(>1 year),,,,,,,True,True
+0525,Colorado Northwestern Community College,5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.(51.38)",Health,02,Certificate(>1 year),,,,,,,True,True
+6109,Pickens Technical College,5199,"Health Professions and Related Clinical Sciences, Other.(51.99)",Health,01,Certificate(<1 year),20.0,,,,,,False,True
+0492,Pueblo Community College,5110,Clinical/Medical Laboratory Science/Research and Allied Professions.(51.10),Health,01,Certificate(<1 year),199.0,70.0,0.35,26997.0,33711.0,41150.0,False,False
+0528,Trinidad State College,5133,Alternative and Complementary Medicine and Medical Systems.(51.33),Health,01,Certificate(<1 year),,,,,,,True,True
+0544,Morgan Community College,101,Agricultural Business and Management.(01.01),"Science, Technology, Engineering and Math",01,Certificate(<1 year),282.0,61.0,0.22,32536.0,58033.0,75839.0,False,False
+0491,Community College of Aurora,1101,"Computer and Information Sciences, General.(11.01)","Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0507,Front Range Community College,5108,Allied Health and Medical Assisting Services.(51.08),Health,02,Certificate(>1 year),128.0,77.0,0.6,34061.0,41093.0,44315.0,False,False
+0507,Front Range Community College,5100,"Health Services/Allied Health/Health Sciences, General.(51.00)",Health,01,Certificate(<1 year),93.0,30.0,0.32,32787.0,42230.0,50346.0,False,False
+0507,Front Range Community College,4302,Fire Protection.(43.02),Trades,01,Certificate(<1 year),,,,,,,True,True
+0525,Colorado Northwestern Community College,1204,Cosmetology and Related Personal Grooming Services.(12.04),Trades,02,Certificate(>1 year),78.0,12.0,0.15,26821.0,31563.0,34027.0,False,False
+0511,Community College of Denver,1513,Drafting/Design Engineering Technologies/Technicians.(15.13),"Science, Technology, Engineering and Math",01,Certificate(<1 year),24.0,,,,,,False,True
+0501,Colorado Mountain College,2203,Legal Support Services.(22.03),Social and Behavioral Sciences and Human Services,02,Certificate(>1 year),28.0,,,,,,False,True
+0508,Red Rocks Community College,4807,Woodworking.(48.07),Trades,02,Certificate(>1 year),,,,,,,True,True
+0508,Red Rocks Community College,5205,Business/Corporate Communications.(52.05),Business,01,Certificate(<1 year),14.0,,,,,,False,True
+0520,Northeastern Junior College,103,Agricultural Production Operations.(01.03),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0525,Colorado Northwestern Community College,5203,Accounting and Related Services.(52.03),Business,01,Certificate(<1 year),,,,,,,True,True
+0508,Red Rocks Community College,1110,Computer/Information Technology Administration and Management.(11.10),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0514,Lamar Community College,1110,Computer/Information Technology Administration and Management.(11.10),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0528,Trinidad State College,5207,Entrepreneurial and Small Business Operations.(52.07),Business,01,Certificate(<1 year),22.0,,,,,,False,True
+5124,Emily Griffith Technical College,5209,Hospitality Administration/Management.(52.09),Business,01,Certificate(<1 year),17.0,,,,,,False,True
+0501,Colorado Mountain College,1205,Culinary Arts and Related Services.(12.05),Trades,01,Certificate(<1 year),64.0,16.0,0.25,31056.0,40312.0,52283.0,False,False
+0491,Community College of Aurora,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.(51.09)",Health,01,Certificate(<1 year),384.0,179.0,0.47,32120.0,40588.0,53035.0,False,False
+0509,Pikes Peak State College,5106,Dental Support Services and Allied Professions.(51.06),Health,02,Certificate(>1 year),56.0,21.0,0.38,27182.0,32201.0,36483.0,False,False
+0509,Pikes Peak State College,1108,Computer Software and Media Applications.(11.08),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+5124,Emily Griffith Technical College,1109,Computer Systems Networking and Telecommunications.(11.09),"Science, Technology, Engineering and Math",02,Certificate(>1 year),161.0,88.0,0.55,33534.0,45836.0,57793.0,False,False
+0518,Colorado Mesa University,1505,Environmental Control Technologies/Technicians.(15.05),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0501,Colorado Mountain College,1312,"Teacher Education and Professional Development, Specific Levels and Methods.(13.12)",Education,01,Certificate(<1 year),381.0,163.0,0.43,28358.0,37139.0,47597.0,False,False
+0492,Pueblo Community College,5108,Allied Health and Medical Assisting Services.(51.08),Health,01,Certificate(<1 year),45.0,17.0,0.38,27013.0,28096.0,32572.0,False,False
+0514,Lamar Community College,5207,Entrepreneurial and Small Business Operations.(52.07),Business,01,Certificate(<1 year),,,,,,,True,True
+0497,Arapahoe Community College,1513,Drafting/Design Engineering Technologies/Technicians.(15.13),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0505,Aims Community College,5215,Real Estate.(52.15),Business,01,Certificate(<1 year),,,,,,,True,True
+0535,University of Colorado Colorado Springs,4304,Security Science and Technology.(43.04),Trades,01,Certificate(<1 year),27.0,18.0,0.67,39749.0,58365.0,68716.0,False,False
+0509,Pikes Peak State College,1616,American Sign Language.(16.16),"Arts, Humanities and Communication",01,Certificate(<1 year),35.0,,,,,,False,True
+5124,Emily Griffith Technical College,5135,Somatic Bodywork and Related Therapeutic Services.(51.35),Health,01,Certificate(<1 year),47.0,18.0,0.38,28546.0,30911.0,47463.0,False,False
+0534,University of Denver,4507,Geography and Cartography.(45.07),Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),,,,,,,True,True
+0492,Pueblo Community College,2503,Library and Archives Assisting.(25.03),Social and Behavioral Sciences and Human Services,02,Certificate(>1 year),18.0,,,,,,False,True
+0508,Red Rocks Community College,5006,Film/Video and Photographic Arts.(50.06),"Arts, Humanities and Communication",02,Certificate(>1 year),,,,,,,True,True
+0514,Lamar Community College,5203,Accounting and Related Services.(52.03),Business,02,Certificate(>1 year),,,,,,,True,True
+0508,Red Rocks Community College,5108,Allied Health and Medical Assisting Services.(51.08),Health,02,Certificate(>1 year),12.0,,,,,,False,True
+0507,Front Range Community College,4702,"Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).(47.02)",Trades,01,Certificate(<1 year),,,,,,,True,True
+6326,Technical College of the Rockies,183,Veterinary/Animal Health Technologies/Technicians.(01.83),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0497,Arapahoe Community College,1508,Mechanical Engineering Related Technologies/Technicians.(15.08),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0505,Aims Community College,5203,Accounting and Related Services.(52.03),Business,01,Certificate(<1 year),54.0,30.0,0.56,35140.0,48693.0,60108.0,False,False
+0518,Colorado Mesa University,4507,Geography and Cartography.(45.07),Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),,,,,,,True,True
+0525,Colorado Northwestern Community College,301,Natural Resources Conservation and Research.(03.01),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0508,Red Rocks Community College,1108,Computer Software and Media Applications.(11.08),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0507,Front Range Community College,1110,Computer/Information Technology Administration and Management.(11.10),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0523,Colorado Christian University,5207,Entrepreneurial and Small Business Operations.(52.07),Business,01,Certificate(<1 year),,,,,,,True,True
+0508,Red Rocks Community College,5009,Music.(50.09),"Arts, Humanities and Communication",01,Certificate(<1 year),,,,,,,True,True
+0528,Trinidad State College,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.(51.09)",Health,01,Certificate(<1 year),148.0,66.0,0.45,30991.0,43643.0,56156.0,False,False
+0509,Pikes Peak State College,4301,Criminal Justice and Corrections.(43.01),Trades,01,Certificate(<1 year),365.0,100.0,0.27,27774.0,37479.0,50270.0,False,False
+0508,Red Rocks Community College,3106,Outdoor Education.(31.06),Social and Behavioral Sciences and Human Services,02,Certificate(>1 year),,,,,,,True,True
+0505,Aims Community College,4602,Carpenters.(46.02),Trades,01,Certificate(<1 year),66.0,11.0,0.17,26185.0,34098.0,37618.0,False,False
+0509,Pikes Peak State College,4706,Vehicle Maintenance and Repair Technologies/Technicians.(47.06),Trades,02,Certificate(>1 year),20.0,12.0,0.6,28773.0,34310.0,47745.0,False,False
+0509,Pikes Peak State College,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.(51.09)",Health,01,Certificate(<1 year),801.0,313.0,0.39,29605.0,41002.0,50906.0,False,False
+0505,Aims Community College,5212,Management Information Systems and Services.(52.12),Business,01,Certificate(<1 year),,,,,,,True,True
+0501,Colorado Mountain College,907,"Radio, Television, and Digital Communication.(09.07)","Arts, Humanities and Communication",01,Certificate(<1 year),,,,,,,True,True
+0497,Arapahoe Community College,904,Journalism.(09.04),"Arts, Humanities and Communication",01,Certificate(<1 year),,,,,,,True,True
+0492,Pueblo Community College,5107,Health and Medical Administrative Services.(51.07),Health,01,Certificate(<1 year),,,,,,,True,True
+0514,Lamar Community College,183,Veterinary/Animal Health Technologies/Technicians.(01.83),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0508,Red Rocks Community College,5135,Somatic Bodywork and Related Therapeutic Services.(51.35),Health,01,Certificate(<1 year),,,,,,,True,True
+0507,Front Range Community College,1108,Computer Software and Media Applications.(11.08),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0518,Colorado Mesa University,5108,Allied Health and Medical Assisting Services.(51.08),Health,02,Certificate(>1 year),66.0,31.0,0.47,27833.0,34371.0,42112.0,False,False
+0491,Community College of Aurora,1108,Computer Software and Media Applications.(11.08),"Science, Technology, Engineering and Math",01,Certificate(<1 year),10.0,,,,,,False,True
+0523,Colorado Christian University,5218,"General Sales, Merchandising and Related Marketing Operations.(52.18)",Business,01,Certificate(<1 year),,,,,,,True,True
+0505,Aims Community College,5204,Business Operations Support and Assistant Services.(52.04),Business,01,Certificate(<1 year),17.0,,,,,,False,True
+0518,Colorado Mesa University,4303,Homeland Security.(43.03),Trades,01,Certificate(<1 year),,,,,,,True,True
+0514,Lamar Community College,4600,"Construction Trades, General.(46.00)",Trades,01,Certificate(<1 year),137.0,39.0,0.28,26668.0,31996.0,42406.0,False,False
+0505,Aims Community College,1107,Computer Science.(11.07),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0492,Pueblo Community College,5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.(51.38)",Health,02,Certificate(>1 year),46.0,23.0,0.5,47093.0,56360.0,69847.0,False,False
+0508,Red Rocks Community College,5207,Entrepreneurial and Small Business Operations.(52.07),Business,01,Certificate(<1 year),,,,,,,True,True
+0505,Aims Community College,1003,Graphic Communications.(10.03),"Arts, Humanities and Communication",01,Certificate(<1 year),29.0,,,,,,False,True
+0492,Pueblo Community College,907,"Radio, Television, and Digital Communication.(09.07)","Arts, Humanities and Communication",01,Certificate(<1 year),11.0,,,,,,False,True
+0518,Colorado Mesa University,5204,Business Operations Support and Assistant Services.(52.04),Business,02,Certificate(>1 year),10.0,,,,,,False,True
+0492,Pueblo Community College,4706,Vehicle Maintenance and Repair Technologies/Technicians.(47.06),Trades,01,Certificate(<1 year),641.0,182.0,0.28,27867.0,34746.0,41313.0,False,False
+0505,Aims Community College,904,Journalism.(09.04),"Arts, Humanities and Communication",01,Certificate(<1 year),,,,,,,True,True
+0511,Community College of Denver,1110,Computer/Information Technology Administration and Management.(11.10),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0509,Pikes Peak State College,5108,Allied Health and Medical Assisting Services.(51.08),Health,02,Certificate(>1 year),47.0,26.0,0.55,30863.0,41544.0,48114.0,False,False
+0509,Pikes Peak State College,302,Environmental/Natural Resources Management and Policy.(03.02),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0511,Community College of Denver,5204,Business Operations Support and Assistant Services.(52.04),Business,02,Certificate(>1 year),15.0,,,,,,False,True
+0501,Colorado Mountain College,5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.(51.39)",Health,01,Certificate(<1 year),555.0,188.0,0.34,29968.0,38587.0,49109.0,False,False
+0509,Pikes Peak State College,1501,Architectural Engineering Technologies/Technicians.(15.01),"Science, Technology, Engineering and Math",01,Certificate(<1 year),25.0,15.0,0.6,34574.0,46253.0,50629.0,False,False
+0492,Pueblo Community College,5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.(51.39)",Health,01,Certificate(<1 year),636.0,148.0,0.23,28002.0,34011.0,41314.0,False,False
+0507,Front Range Community College,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.(51.09)",Health,01,Certificate(<1 year),1298.0,639.0,0.49,31623.0,41194.0,53038.0,False,False
+0508,Red Rocks Community College,5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.(51.38)",Health,01,Certificate(<1 year),100.0,57.0,0.57,35572.0,56565.0,68951.0,False,False
+0505,Aims Community College,1509,Mining and Petroleum Technologies/Technicians.(15.09),"Science, Technology, Engineering and Math",01,Certificate(<1 year),11.0,,,,,,False,True
+0497,Arapahoe Community College,3105,"Sports, Kinesiology, and Physical Education/Fitness.(31.05)",Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),,,,,,,True,True
+0523,Colorado Christian University,1303,Curriculum and Instruction.(13.03),Education,01,Certificate(<1 year),,,,,,,True,True
+5124,Emily Griffith Technical College,2203,Legal Support Services.(22.03),Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),65.0,27.0,0.42,32405.0,38599.0,46641.0,False,False
+0522,Otero College,4301,Criminal Justice and Corrections.(43.01),Trades,02,Certificate(>1 year),172.0,143.0,0.83,42514.0,51831.0,58039.0,False,False
+0528,Trinidad State College,5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.(51.39)",Health,02,Certificate(>1 year),,,,,,,True,True
+0497,Arapahoe Community College,1501,Architectural Engineering Technologies/Technicians.(15.01),"Science, Technology, Engineering and Math",02,Certificate(>1 year),25.0,17.0,0.68,46578.0,53350.0,67002.0,False,False
+0518,Colorado Mesa University,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.(51.09)",Health,02,Certificate(>1 year),29.0,26.0,0.9,60048.0,77351.0,95670.0,False,False
+0501,Colorado Mountain College,5115,Mental and Social Health Services and Allied Professions.(51.15),Health,01,Certificate(<1 year),,,,,,,True,True
+0508,Red Rocks Community College,1513,Drafting/Design Engineering Technologies/Technicians.(15.13),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0508,Red Rocks Community College,5006,Film/Video and Photographic Arts.(50.06),"Arts, Humanities and Communication",01,Certificate(<1 year),124.0,15.0,0.12,29934.0,33857.0,42599.0,False,False
+0501,Colorado Mountain College,5215,Real Estate.(52.15),Business,01,Certificate(<1 year),289.0,144.0,0.5,39485.0,55311.0,81350.0,False,False
+0509,Pikes Peak State College,5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.(51.39)",Health,01,Certificate(<1 year),323.0,99.0,0.31,29811.0,35294.0,41150.0,False,False
+0508,Red Rocks Community College,5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.(51.39)",Health,01,Certificate(<1 year),709.0,229.0,0.32,29245.0,38125.0,45823.0,False,False
+0505,Aims Community College,4805,Precision Metal Working.(48.05),Trades,01,Certificate(<1 year),363.0,153.0,0.42,32366.0,43876.0,54677.0,False,False
+0524,Colorado State University - Pueblo,5220,Construction Management.(52.20),Business,01,Certificate(<1 year),,,,,,,True,True
+0507,Front Range Community College,1003,Graphic Communications.(10.03),"Arts, Humanities and Communication",02,Certificate(>1 year),115.0,30.0,0.26,30139.0,38789.0,46268.0,False,False
+0507,Front Range Community College,5203,Accounting and Related Services.(52.03),Business,02,Certificate(>1 year),,,,,,,True,True
+0514,Lamar Community College,4805,Precision Metal Working.(48.05),Trades,01,Certificate(<1 year),,,,,,,True,True
+0520,Northeastern Junior College,4706,Vehicle Maintenance and Repair Technologies/Technicians.(47.06),Trades,01,Certificate(<1 year),95.0,26.0,0.27,28707.0,32995.0,64768.0,False,False
+0518,Colorado Mesa University,5210,Human Resources Management and Services.(52.10),Business,01,Certificate(<1 year),,,,,,,True,True
+0514,Lamar Community College,103,Agricultural Production Operations.(01.03),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0507,Front Range Community College,1101,"Computer and Information Sciences, General.(11.01)","Science, Technology, Engineering and Math",01,Certificate(<1 year),399.0,174.0,0.44,33621.0,47487.0,62599.0,False,False
+0501,Colorado Mountain College,5209,Hospitality Administration/Management.(52.09),Business,01,Certificate(<1 year),43.0,21.0,0.49,29724.0,46230.0,55712.0,False,False
+0507,Front Range Community College,5107,Health and Medical Administrative Services.(51.07),Health,01,Certificate(<1 year),148.0,70.0,0.47,30955.0,37460.0,46204.0,False,False
+0544,Morgan Community College,1003,Graphic Communications.(10.03),"Arts, Humanities and Communication",02,Certificate(>1 year),12.0,,,,,,False,True
+4504,CSU-Global Campus,5202,"Business Administration, Management and Operations.(52.02)",Business,01,Certificate(<1 year),206.0,61.0,0.3,49513.0,71256.0,94753.0,False,False
+6326,Technical College of the Rockies,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.(51.09)",Health,01,Certificate(<1 year),170.0,79.0,0.46,31657.0,47155.0,77963.0,False,False
+0505,Aims Community College,3105,"Sports, Kinesiology, and Physical Education/Fitness.(31.05)",Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),,,,,,,True,True
+6109,Pickens Technical College,106,Applied Horticulture and Horticultural Business Services.(01.06),"Science, Technology, Engineering and Math",01,Certificate(<1 year),13.0,,,,,,False,True
+4504,CSU-Global Campus,5214,Marketing.(52.14),Business,01,Certificate(<1 year),58.0,,,,,,False,True
+0514,Lamar Community College,4600,"Construction Trades, General.(46.00)",Trades,02,Certificate(>1 year),,,,,,,True,True
+0505,Aims Community College,4706,Vehicle Maintenance and Repair Technologies/Technicians.(47.06),Trades,01,Certificate(<1 year),483.0,251.0,0.52,29988.0,40724.0,49354.0,False,False
+0501,Colorado Mountain College,1205,Culinary Arts and Related Services.(12.05),Trades,02,Certificate(>1 year),,,,,,,True,True
+0509,Pikes Peak State College,5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.(51.38)",Health,01,Certificate(<1 year),1172.0,288.0,0.25,28523.0,34212.0,45183.0,False,False
+0507,Front Range Community College,306,Wildlife and Wildlands Science and Management.(03.06),"Science, Technology, Engineering and Math",01,Certificate(<1 year),397.0,112.0,0.28,28827.0,35854.0,48191.0,False,False
+0501,Colorado Mountain College,5004,Design and Applied Arts.(50.04),"Arts, Humanities and Communication",01,Certificate(<1 year),,,,,,,True,True
+5124,Emily Griffith Technical College,5108,Allied Health and Medical Assisting Services.(51.08),Health,02,Certificate(>1 year),74.0,31.0,0.42,28600.0,34891.0,40294.0,False,False
+0505,Aims Community College,4302,Fire Protection.(43.02),Trades,01,Certificate(<1 year),304.0,187.0,0.62,33508.0,48864.0,61171.0,False,False
+0528,Trinidad State College,1109,Computer Systems Networking and Telecommunications.(11.09),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+6326,Technical College of the Rockies,4902,Ground Transportation.(49.02),Trades,01,Certificate(<1 year),,,,,,,True,True
+0518,Colorado Mesa University,5115,Mental and Social Health Services and Allied Professions.(51.15),Health,01,Certificate(<1 year),,,,,,,True,True
+0508,Red Rocks Community College,5133,Alternative and Complementary Medicine and Medical Systems.(51.33),Health,01,Certificate(<1 year),146.0,47.0,0.32,26473.0,37440.0,54563.0,False,False
+5124,Emily Griffith Technical College,4602,Carpenters.(46.02),Trades,02,Certificate(>1 year),77.0,65.0,0.84,49591.0,60075.0,67603.0,False,False
+0508,Red Rocks Community College,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.(51.09)",Health,02,Certificate(>1 year),207.0,168.0,0.81,60228.0,95107.0,115569.0,False,False
+0492,Pueblo Community College,1503,Electrical/Electronic Engineering Technologies/Technicians.(15.03),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0505,Aims Community College,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.(51.09)",Health,01,Certificate(<1 year),595.0,324.0,0.54,30341.0,43923.0,56683.0,False,False
+0509,Pikes Peak State College,1205,Culinary Arts and Related Services.(12.05),Trades,01,Certificate(<1 year),140.0,30.0,0.21,23620.0,27637.0,38108.0,False,False
+4504,CSU-Global Campus,1110,Computer/Information Technology Administration and Management.(11.10),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0508,Red Rocks Community College,4603,Electrical and Power Transmission Installers.(46.03),Trades,01,Certificate(<1 year),87.0,61.0,0.7,42633.0,58231.0,79450.0,False,False
+0505,Aims Community College,4901,Air Transportation.(49.01),Trades,01,Certificate(<1 year),28.0,,,,,,False,True
+0497,Arapahoe Community College,5107,Health and Medical Administrative Services.(51.07),Health,01,Certificate(<1 year),128.0,60.0,0.47,30261.0,41260.0,50997.0,False,False
+0509,Pikes Peak State College,5107,Health and Medical Administrative Services.(51.07),Health,02,Certificate(>1 year),20.0,,,,,,False,True
+0507,Front Range Community College,5133,Alternative and Complementary Medicine and Medical Systems.(51.33),Health,01,Certificate(<1 year),157.0,52.0,0.33,26014.0,37516.0,48607.0,False,False
+6109,Pickens Technical College,1505,Environmental Control Technologies/Technicians.(15.05),"Science, Technology, Engineering and Math",01,Certificate(<1 year),169.0,95.0,0.56,41000.0,51009.0,61601.0,False,False
+0505,Aims Community College,1500,"Engineering Technologies/Technicians, General.(15.00)","Science, Technology, Engineering and Math",01,Certificate(<1 year),33.0,23.0,0.7,36053.0,51551.0,71040.0,False,False
+0528,Trinidad State College,1204,Cosmetology and Related Personal Grooming Services.(12.04),Trades,01,Certificate(<1 year),126.0,19.0,0.15,25995.0,32732.0,41032.0,False,False
+6326,Technical College of the Rockies,1204,Cosmetology and Related Personal Grooming Services.(12.04),Trades,02,Certificate(>1 year),48.0,,,,,,False,True
+5124,Emily Griffith Technical College,5108,Allied Health and Medical Assisting Services.(51.08),Health,01,Certificate(<1 year),192.0,104.0,0.54,29119.0,36138.0,40929.0,False,False
+0507,Front Range Community College,1103,Data Processing.(11.03),"Science, Technology, Engineering and Math",01,Certificate(<1 year),23.0,,,,,,False,True
+0497,Arapahoe Community College,5004,Design and Applied Arts.(50.04),"Arts, Humanities and Communication",02,Certificate(>1 year),10.0,,,,,,False,True
+0507,Front Range Community College,5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.(51.39)",Health,02,Certificate(>1 year),129.0,105.0,0.81,29241.0,51896.0,62520.0,False,False
+0524,Colorado State University - Pueblo,3105,"Sports, Kinesiology, and Physical Education/Fitness.(31.05)",Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),,,,,,,True,True
+0492,Pueblo Community College,1109,Computer Systems Networking and Telecommunications.(11.09),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0507,Front Range Community College,4301,Criminal Justice and Corrections.(43.01),Trades,01,Certificate(<1 year),,,,,,,True,True
+0522,Otero College,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.(51.09)",Health,01,Certificate(<1 year),59.0,15.0,0.25,29749.0,46127.0,62443.0,False,False
+5124,Emily Griffith Technical College,4605,Plumbing and Related Water Supply Services.(46.05),Trades,01,Certificate(<1 year),3002.0,2627.0,0.88,43026.0,59685.0,78156.0,False,False
+0507,Front Range Community College,5203,Accounting and Related Services.(52.03),Business,01,Certificate(<1 year),235.0,124.0,0.53,30993.0,48575.0,61951.0,False,False
+0508,Red Rocks Community College,1513,Drafting/Design Engineering Technologies/Technicians.(15.13),"Science, Technology, Engineering and Math",01,Certificate(<1 year),494.0,195.0,0.39,39557.0,52259.0,67703.0,False,False
+0491,Community College of Aurora,5208,Finance and Financial Management Services.(52.08),Business,01,Certificate(<1 year),,,,,,,True,True
+5124,Emily Griffith Technical College,5006,Film/Video and Photographic Arts.(50.06),"Arts, Humanities and Communication",01,Certificate(<1 year),54.0,15.0,0.28,31169.0,37392.0,41756.0,False,False
+0501,Colorado Mountain College,1517,Energy Systems Technologies/Technicians.(15.17),"Science, Technology, Engineering and Math",01,Certificate(<1 year),162.0,60.0,0.37,26881.0,32802.0,46823.0,False,False
+4504,CSU-Global Campus,5212,Management Information Systems and Services.(52.12),Business,01,Certificate(<1 year),,,,,,,True,True
+0544,Morgan Community College,1312,"Teacher Education and Professional Development, Specific Levels and Methods.(13.12)",Education,01,Certificate(<1 year),,,,,,,True,True
+0514,Lamar Community College,101,Agricultural Business and Management.(01.01),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0507,Front Range Community College,5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.(51.39)",Health,01,Certificate(<1 year),1278.0,405.0,0.32,26961.0,33519.0,42047.0,False,False
+0520,Northeastern Junior College,1204,Cosmetology and Related Personal Grooming Services.(12.04),Trades,02,Certificate(>1 year),163.0,30.0,0.18,26235.0,28948.0,34359.0,False,False
+0518,Colorado Mesa University,4603,Electrical and Power Transmission Installers.(46.03),Trades,02,Certificate(>1 year),350.0,215.0,0.61,33190.0,49447.0,68506.0,False,False
+0509,Pikes Peak State College,1002,Audiovisual Communications Technologies/Technicians.(10.02),"Arts, Humanities and Communication",02,Certificate(>1 year),,,,,,,True,True
+0491,Community College of Aurora,5201,"Business/Commerce, General.(52.01)",Business,01,Certificate(<1 year),,,,,,,True,True
+0522,Otero College,4706,Vehicle Maintenance and Repair Technologies/Technicians.(47.06),Trades,01,Certificate(<1 year),40.0,,,,,,False,True
+0492,Pueblo Community College,4600,"Construction Trades, General.(46.00)",Trades,01,Certificate(<1 year),,,,,,,True,True
+0514,Lamar Community College,3105,"Sports, Kinesiology, and Physical Education/Fitness.(31.05)",Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),,,,,,,True,True
+5124,Emily Griffith Technical College,4602,Carpenters.(46.02),Trades,01,Certificate(<1 year),656.0,584.0,0.89,52100.0,62187.0,70788.0,False,False
+0505,Aims Community College,4301,Criminal Justice and Corrections.(43.01),Trades,01,Certificate(<1 year),59.0,,,,,,False,True
+0518,Colorado Mesa University,1109,Computer Systems Networking and Telecommunications.(11.09),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0507,Front Range Community College,1505,Environmental Control Technologies/Technicians.(15.05),"Science, Technology, Engineering and Math",01,Certificate(<1 year),85.0,59.0,0.69,38539.0,55259.0,71338.0,False,False
+0518,Colorado Mesa University,1205,Culinary Arts and Related Services.(12.05),Trades,01,Certificate(<1 year),53.0,11.0,0.21,26382.0,28844.0,30115.0,False,False
+0492,Pueblo Community College,4301,Criminal Justice and Corrections.(43.01),Trades,02,Certificate(>1 year),14.0,12.0,0.86,45143.0,61342.0,63883.0,False,False
+0518,Colorado Mesa University,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.(51.09)",Health,01,Certificate(<1 year),277.0,109.0,0.39,27433.0,34949.0,46704.0,False,False
+0509,Pikes Peak State College,4399,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.(43.99)",Trades,01,Certificate(<1 year),,,,,,,True,True
+0520,Northeastern Junior College,4805,Precision Metal Working.(48.05),Trades,01,Certificate(<1 year),120.0,55.0,0.46,34125.0,44729.0,56011.0,False,False
+0525,Colorado Northwestern Community College,5135,Somatic Bodywork and Related Therapeutic Services.(51.35),Health,02,Certificate(>1 year),18.0,,,,,,False,True
+0509,Pikes Peak State College,1003,Graphic Communications.(10.03),"Arts, Humanities and Communication",01,Certificate(<1 year),204.0,38.0,0.19,27512.0,39228.0,56277.0,False,False
+0492,Pueblo Community College,5106,Dental Support Services and Allied Professions.(51.06),Health,02,Certificate(>1 year),,,,,,,True,True
+0518,Colorado Mesa University,4903,Marine Transportation.(49.03),Trades,01,Certificate(<1 year),,,,,,,True,True
+0508,Red Rocks Community College,907,"Radio, Television, and Digital Communication.(09.07)","Arts, Humanities and Communication",01,Certificate(<1 year),84.0,,,,,,False,True
+0544,Morgan Community College,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.(51.09)",Health,01,Certificate(<1 year),91.0,43.0,0.47,32140.0,44741.0,59846.0,False,False
+0505,Aims Community College,5203,Accounting and Related Services.(52.03),Business,02,Certificate(>1 year),,,,,,,True,True
+0528,Trinidad State College,4805,Precision Metal Working.(48.05),Trades,02,Certificate(>1 year),122.0,42.0,0.34,31573.0,37342.0,43163.0,False,False
+0544,Morgan Community College,5100,"Health Services/Allied Health/Health Sciences, General.(51.00)",Health,02,Certificate(>1 year),,,,,,,True,True
+0525,Colorado Northwestern Community College,103,Agricultural Production Operations.(01.03),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+5124,Emily Griffith Technical College,5203,Accounting and Related Services.(52.03),Business,02,Certificate(>1 year),98.0,56.0,0.57,27573.0,37582.0,44631.0,False,False
+0544,Morgan Community College,5139,"Practical Nursing, Vocational Nursing and Nursing Assistants.(51.39)",Health,02,Certificate(>1 year),53.0,23.0,0.43,30677.0,41713.0,58433.0,False,False
+0508,Red Rocks Community College,1102,Computer Programming.(11.02),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0520,Northeastern Junior College,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.(51.09)",Health,01,Certificate(<1 year),78.0,44.0,0.56,40051.0,47020.0,58505.0,False,False
+0501,Colorado Mountain College,1506,Industrial Production Technologies/Technicians.(15.06),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+5124,Emily Griffith Technical College,4604,"Building/Construction Finishing, Management, and Inspection.(46.04)",Trades,01,Certificate(<1 year),165.0,118.0,0.72,41210.0,57326.0,70695.0,False,False
+0497,Arapahoe Community College,3000,"Multi-/Interdisciplinary Studies, General.(30.00)","Arts, Humanities and Communication",02,Certificate(>1 year),14.0,,,,,,False,True
+6326,Technical College of the Rockies,1907,"Human Development, Family Studies, and Related Services.(19.07)",Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),80.0,12.0,0.15,30706.0,39111.0,48326.0,False,False
+0497,Arapahoe Community College,1002,Audiovisual Communications Technologies/Technicians.(10.02),"Arts, Humanities and Communication",01,Certificate(<1 year),13.0,,,,,,False,True
+0507,Front Range Community College,1109,Computer Systems Networking and Telecommunications.(11.09),"Science, Technology, Engineering and Math",01,Certificate(<1 year),553.0,249.0,0.45,35827.0,49581.0,65321.0,False,False
+0518,Colorado Mesa University,5202,"Business Administration, Management and Operations.(52.02)",Business,01,Certificate(<1 year),,,,,,,True,True
+0508,Red Rocks Community College,5201,"Business/Commerce, General.(52.01)",Business,01,Certificate(<1 year),,,,,,,True,True
+0505,Aims Community College,5108,Allied Health and Medical Assisting Services.(51.08),Health,01,Certificate(<1 year),160.0,68.0,0.42,31319.0,38188.0,40980.0,False,False
+0492,Pueblo Community College,5108,Allied Health and Medical Assisting Services.(51.08),Health,02,Certificate(>1 year),75.0,36.0,0.48,28620.0,33919.0,40191.0,False,False
+0497,Arapahoe Community College,5218,"General Sales, Merchandising and Related Marketing Operations.(52.18)",Business,01,Certificate(<1 year),16.0,14.0,0.88,53851.0,70709.0,88236.0,False,False
+0497,Arapahoe Community College,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.(51.09)",Health,01,Certificate(<1 year),606.0,282.0,0.47,30387.0,40629.0,56100.0,False,False
+0505,Aims Community College,4604,"Building/Construction Finishing, Management, and Inspection.(46.04)",Trades,01,Certificate(<1 year),18.0,,,,,,False,True
+0508,Red Rocks Community College,4604,"Building/Construction Finishing, Management, and Inspection.(46.04)",Trades,01,Certificate(<1 year),130.0,91.0,0.7,41125.0,55831.0,71343.0,False,False
+0523,Colorado Christian University,5107,Health and Medical Administrative Services.(51.07),Health,01,Certificate(<1 year),,,,,,,True,True
+0501,Colorado Mountain College,5108,Allied Health and Medical Assisting Services.(51.08),Health,01,Certificate(<1 year),,,,,,,True,True
+0492,Pueblo Community College,1506,Industrial Production Technologies/Technicians.(15.06),"Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+6109,Pickens Technical College,5107,Health and Medical Administrative Services.(51.07),Health,01,Certificate(<1 year),162.0,63.0,0.39,27908.0,39995.0,43975.0,False,False
+5124,Emily Griffith Technical College,5204,Business Operations Support and Assistant Services.(52.04),Business,01,Certificate(<1 year),37.0,,,,,,False,True
+0509,Pikes Peak State College,5203,Accounting and Related Services.(52.03),Business,01,Certificate(<1 year),62.0,24.0,0.39,34504.0,42263.0,56424.0,False,False
+0505,Aims Community College,1312,"Teacher Education and Professional Development, Specific Levels and Methods.(13.12)",Education,01,Certificate(<1 year),40.0,,,,,,False,True
+0518,Colorado Mesa University,4805,Precision Metal Working.(48.05),Trades,02,Certificate(>1 year),91.0,35.0,0.38,37473.0,46471.0,54610.0,False,False
+0505,Aims Community College,1109,Computer Systems Networking and Telecommunications.(11.09),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0511,Community College of Denver,5203,Accounting and Related Services.(52.03),Business,01,Certificate(<1 year),15.0,,,,,,False,True
+0497,Arapahoe Community College,1500,"Engineering Technologies/Technicians, General.(15.00)","Science, Technology, Engineering and Math",02,Certificate(>1 year),,,,,,,True,True
+0508,Red Rocks Community College,5106,Dental Support Services and Allied Professions.(51.06),Health,01,Certificate(<1 year),53.0,,,,,,False,True
+5124,Emily Griffith Technical College,4601,Mason/Masonry.(46.01),Trades,01,Certificate(<1 year),52.0,35.0,0.67,39611.0,53443.0,62970.0,False,False
+5124,Emily Griffith Technical College,1205,Culinary Arts and Related Services.(12.05),Trades,01,Certificate(<1 year),436.0,181.0,0.42,28750.0,37732.0,48208.0,False,False
+0501,Colorado Mountain College,5138,"Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.(51.38)",Health,02,Certificate(>1 year),,,,,,,True,True
+0497,Arapahoe Community College,1204,Cosmetology and Related Personal Grooming Services.(12.04),Trades,02,Certificate(>1 year),266.0,77.0,0.29,24620.0,31947.0,37152.0,False,False
+0492,Pueblo Community College,1108,Computer Software and Media Applications.(11.08),"Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0522,Otero College,5115,Mental and Social Health Services and Allied Professions.(51.15),Health,02,Certificate(>1 year),10.0,,,,,,False,True
+0497,Arapahoe Community College,1907,"Human Development, Family Studies, and Related Services.(19.07)",Social and Behavioral Sciences and Human Services,02,Certificate(>1 year),47.0,24.0,0.51,30378.0,38513.0,42449.0,False,False
+0501,Colorado Mountain College,5107,Health and Medical Administrative Services.(51.07),Health,02,Certificate(>1 year),10.0,,,,,,False,True
+0492,Pueblo Community College,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.(51.09)",Health,01,Certificate(<1 year),721.0,338.0,0.47,30704.0,38666.0,53793.0,False,False
+0492,Pueblo Community College,4706,Vehicle Maintenance and Repair Technologies/Technicians.(47.06),Trades,02,Certificate(>1 year),,,,,,,True,True
+0492,Pueblo Community College,5107,Health and Medical Administrative Services.(51.07),Health,02,Certificate(>1 year),44.0,23.0,0.52,31066.0,42141.0,47831.0,False,False
+0519,Metropolitan State University of Denver,5209,Hospitality Administration/Management.(52.09),Business,01,Certificate(<1 year),11.0,,,,,,False,True
+0544,Morgan Community College,1101,"Computer and Information Sciences, General.(11.01)","Science, Technology, Engineering and Math",01,Certificate(<1 year),,,,,,,True,True
+0491,Community College of Aurora,1109,Computer Systems Networking and Telecommunications.(11.09),"Science, Technology, Engineering and Math",01,Certificate(<1 year),77.0,37.0,0.48,43674.0,51052.0,60792.0,False,False
+0544,Morgan Community College,1315,Teaching Assistants/Aides.(13.15),Education,01,Certificate(<1 year),25.0,10.0,0.4,30142.0,34445.0,35961.0,False,False
+5124,Emily Griffith Technical College,5107,Health and Medical Administrative Services.(51.07),Health,01,Certificate(<1 year),67.0,23.0,0.34,28823.0,39091.0,44071.0,False,False
+0509,Pikes Peak State College,5107,Health and Medical Administrative Services.(51.07),Health,01,Certificate(<1 year),128.0,47.0,0.37,28070.0,33588.0,39941.0,False,False
+0511,Community College of Denver,3105,"Sports, Kinesiology, and Physical Education/Fitness.(31.05)",Social and Behavioral Sciences and Human Services,01,Certificate(<1 year),16.0,,,,,,False,True
+0511,Community College of Denver,4304,Security Science and Technology.(43.04),Trades,02,Certificate(>1 year),,,,,,,True,True
+0509,Pikes Peak State College,1503,Electrical/Electronic Engineering Technologies/Technicians.(15.03),"Science, Technology, Engineering and Math",01,Certificate(<1 year),58.0,31.0,0.53,30224.0,41153.0,49064.0,False,False
+0518,Colorado Mesa University,4901,Air Transportation.(49.01),Trades,01,Certificate(<1 year),,,,,,,True,True
+0505,Aims Community College,103,Agricultural Production Operations.(01.03),"Science, Technology, Engineering and Math",01,Certificate(<1 year),10.0,,,,,,False,True
+0508,Red Rocks Community College,4603,Electrical and Power Transmission Installers.(46.03),Trades,02,Certificate(>1 year),19.0,10.0,0.53,50962.0,69841.0,97312.0,False,False
+0508,Red Rocks Community College,5110,Clinical/Medical Laboratory Science/Research and Allied Professions.(51.10),Health,02,Certificate(>1 year),,,,,,,True,True
+6109,Pickens Technical College,4701,Electrical/Electronics Maintenance and Repair Technologies/Technicians.(47.01),Trades,01,Certificate(<1 year),99.0,35.0,0.35,31202.0,40694.0,50506.0,False,False
+0508,Red Rocks Community College,1312,"Teacher Education and Professional Development, Specific Levels and Methods.(13.12)",Education,01,Certificate(<1 year),470.0,161.0,0.34,26774.0,31718.0,42455.0,False,False
+0519,Metropolitan State University of Denver,5214,Marketing.(52.14),Business,01,Certificate(<1 year),,,,,,,True,True
+0501,Colorado Mountain College,302,Environmental/Natural Resources Management and Policy.(03.02),"Science, Technology, Engineering and Math",01,Certificate(<1 year),26.0,,,,,,False,True
+0522,Otero College,5108,Allied Health and Medical Assisting Services.(51.08),Health,02,Certificate(>1 year),,,,,,,True,True
+0501,Colorado Mountain College,5109,"Allied Health Diagnostic, Intervention, and Treatment Professions.(51.09)",Health,02,Certificate(>1 year),35.0,29.0,0.83,54433.0,70690.0,104050.0,False,False
+0518,Colorado Mesa University,4706,Vehicle Maintenance and Repair Technologies/Technicians.(47.06),Trades,02,Certificate(>1 year),127.0,49.0,0.39,29396.0,35243.0,44753.0,False,False
