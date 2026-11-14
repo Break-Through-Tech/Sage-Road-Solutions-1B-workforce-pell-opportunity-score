@@ -283,8 +283,8 @@ with tab_overview:
     st.markdown(
         "1. **Merge** College Scorecard, a program-to-occupation crosswalk, county and metro area files, "
         "Census ACS, and BLS wages into one table of certificate programs.\n"
-        "2. **Build two labels:** school completion at 70% or higher (national), and Year 1 earnings above the "
-        "high school baseline (Colorado).\n"
+        "2. **Build two labels:** school completion at 70% or higher (national), and a Colorado label that needs "
+        "Year 1 earnings above the high school baseline and at least 50% of completers found in wage records.\n"
         "3. **Train and compare models** with cross-validation that keeps each school in either training or testing.\n"
         "4. **Explain them** with SHAP.\n"
         "5. **Score every program** with an outcome part and a demand part, and show school completion alongside.\n"
@@ -324,8 +324,9 @@ with tab_models:
         st.info("notebooks/results_national.csv not found.")
     st.caption("The Dummy model always predicts the most common answer, so it is the floor every model must beat.")
 
-    st.markdown("### Colorado model: Year 1 earnings beat the high school baseline")
-    st.write("343 programs at 22 Colorado schools. About 42% of programs are labeled 1.")
+    st.markdown("### Colorado model: earnings beat the high school baseline and placement proxy is at least 50%")
+    st.write("343 programs at 22 Colorado schools. About 29% of programs are labeled 1. The placement proxy is the "
+             "share of completers found in Colorado wage records.")
     co_res = read_results("results_colorado.csv")
     if co_res is not None:
         model_chart(co_res, "Colorado models: F1 and ROC-AUC (5-fold cross-validation grouped by school)")
@@ -337,8 +338,8 @@ with tab_models:
 
     folds = pd.DataFrame({
         "Fold": [1, 2, 3, 4, 5],
-        "ROC-AUC": [0.77, 0.78, 0.75, 0.85, 0.70],
-        "F1": [0.66, 0.72, 0.65, 0.69, 0.55],
+        "ROC-AUC": [0.84, 0.72, 0.79, 0.70, 0.60],
+        "F1": [0.67, 0.49, 0.48, 0.44, 0.32],
     }).melt(id_vars="Fold", var_name="Metric", value_name="Score")
     fig = px.bar(folds, x="Fold", y="Score", color="Metric", barmode="group", range_y=[0, 1],
                  title="Colorado XGBoost: score by cross-validation fold")
@@ -357,23 +358,23 @@ with tab_models:
 
     a, b = st.columns(2)
     with a:
-        simple_bar(["Subject only", "All features", "Everything except subject"], [0.793, 0.768, 0.563],
+        simple_bar(["Subject only", "All features", "Everything except subject"], [0.751, 0.730, 0.523],
                    "Colorado: ROC-AUC with different inputs", "ROC-AUC", fmt="%{text:.2f}")
     with b:
         simple_bar(["School size only", "All features", "Everything except size"], [0.882, 0.947, 0.904],
                    "National: ROC-AUC with different inputs", "ROC-AUC", fmt="%{text:.2f}")
-    st.caption("In Colorado, subject alone predicts about as well as the full model. Nationally, school size alone gets "
+    st.caption("In Colorado, subject alone predicts as well as the full model, and everything except subject is close to a coin flip (0.50). Nationally, school size alone gets "
                "most of the way, but the model still scores well without it, because other columns carry similar "
                "information about school type.")
 
-    co_subj = {11: (16, 0.94), 43: (23, 0.87), 15: (21, 0.76), 46: (20, 0.70), 52: (33, 0.64), 48: (21, 0.38),
-               51: (110, 0.26), 47: (24, 0.21), 13: (17, 0.06), 12: (19, 0.00)}
+    co_subj = {11: (16, 0.25), 43: (23, 0.83), 15: (21, 0.62), 46: (20, 0.70), 52: (33, 0.27), 48: (21, 0.19),
+               51: (110, 0.23), 47: (24, 0.17), 13: (17, 0.06), 12: (19, 0.00)}
     d = pd.DataFrame({
         "Subject": [CIP_FAMILIES[k] + f" ({v[0]} programs)" for k, v in co_subj.items()],
         "Share beating baseline": [v[1] * 100 for v in co_subj.values()],
     }).sort_values("Share beating baseline")
     fig = px.bar(d, x="Share beating baseline", y="Subject", orientation="h",
-                 title="Colorado: share of certificate programs whose Year 1 earnings beat the high school baseline",
+                 title="Colorado: share of certificate programs labeled 1 (earnings beat the baseline and placement proxy at least 50%)",
                  labels={"Share beating baseline": "Percent of programs", "Subject": ""})
     st.plotly_chart(fig)
     st.caption("Subjects with at least 15 Colorado programs.")
@@ -434,7 +435,7 @@ with tab_about:
     st.markdown(
         "- **Outcome score (0 to 100):** a model trained on 343 Colorado certificate programs at 22 schools "
         "predicts whether a program's graduates' Year 1 median earnings beat the high school baseline in the "
-        "school's county. It is applied to programs in every state, which is an extrapolation. Only subjects "
+        "school's county and at least half of completers appear in Colorado wage records. It is applied to programs in every state, which is an extrapolation. Only subjects "
         "with at least 5 Colorado programs are scored.\n"
         "- **Demand score (0 to 100):** the average percentile of local employment and job concentration for the "
         "occupation linked to the program, in the school's metro area. It is blank where no wage data matched.\n"
@@ -451,8 +452,11 @@ with tab_about:
         "full-time minimum wage.\n"
         "- We found no public program-level completion or placement data, and program length is available "
         "for only a small share of programs.\n"
-        "- The outcome model's cross-validated ROC-AUC on Colorado was about 0.77, with only 22 schools, so "
-        "treat scores as rough guides.\n"
+        "- The outcome model's cross-validated ROC-AUC on Colorado was about 0.73 (0.60 to 0.84 across folds), with "
+        "only 22 schools, so treat scores as rough guides.\n"
+        "- Subject alone explains about 55% of the variation in the outcome score.\n"
+        "- The placement part of the label is a proxy. It counts completers found in Colorado wage records, so "
+        "people who left the state, are self-employed, or earn under the minimum threshold look unplaced.\n"
         "- Roughly 40% of programs have no local wage match, so their demand score is blank."
     )
     st.subheader("Data sources")
