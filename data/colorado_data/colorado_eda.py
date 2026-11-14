@@ -1,17 +1,6 @@
 """
 EDA on the Colorado data, Workforce Pell Opportunity Score (Sage Road Solutions, Group 1B)
 Author: Gabby Bui
-
-Run it once from anywhere in the repo:
-    python data/colorado_data/eda/colorado_eda.py
-
-Everything runs in one go. It reads the two Colorado files, prints every check and table,
-saves the same printout to eda_output.txt (so teammates can read the numbers without
-running anything), and saves all figures to the figures/ folder next to this script.
-
-Part 1 looks at year_1_clean.csv, the cleaned Colorado earnings file.
-Part 2 looks at colorado_model_table.csv, the model-ready table with the label.
-The written findings are in COLORADO_EDA_FINDINGS.md in the same folder.
 """
 
 import sys
