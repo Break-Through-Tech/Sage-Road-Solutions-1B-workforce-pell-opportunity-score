@@ -7,7 +7,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 df = pd.read_csv(REPO_ROOT / "data" / "colorado_data" / "colorado_model_table.csv",
                  dtype={"COUNTY_FIPS": str}, low_memory=False)
 
-# Label: Year 1 median earnings beat the county high school baseline
+# Label: earnings beat the county high school baseline AND placement proxy >= 50%
 y = df["LABEL"].astype(int)
 groups = df["UNITID"]   # keeps each school entirely in train or test
 
