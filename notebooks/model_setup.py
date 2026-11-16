@@ -4,7 +4,7 @@ from sklearn.model_selection import GroupKFold, cross_validate
 
 from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parent.parent
-df = pd.read_csv(REPO_ROOT / "data" / "victoria_datasets" / "clean_dataset.csv",
+df = pd.read_csv(REPO_ROOT / "data" / "national_data" / "clean_dataset.csv",
                  dtype={'COUNTY_FIPS': str}, low_memory=False)
 
 # Label: completion rate at or above 70% (Beth's threshold)

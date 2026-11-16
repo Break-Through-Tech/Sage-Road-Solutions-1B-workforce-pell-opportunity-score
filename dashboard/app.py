@@ -8,7 +8,7 @@ import streamlit as st
 st.set_page_config(page_title="Workforce Pell Readiness Explorer", layout="wide")
 
 REPO = Path(__file__).resolve().parent.parent
-DATA = REPO / "data" / "victoria_datasets" / "readiness_scores.csv"
+DATA = REPO / "data" / "national_data" / "readiness_scores.csv"
 NOTEBOOKS = REPO / "notebooks"
 
 CIP_FAMILIES = {

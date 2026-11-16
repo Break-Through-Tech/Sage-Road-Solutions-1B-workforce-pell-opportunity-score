@@ -342,7 +342,7 @@ lost = lost[lost["IN_TABLE"].isna()]
 print(f"\nVisible programs that did not make it into the table: {len(lost)}")
 print(lost[["ENTITY_NAME", "CIPCODE", "DEGREE", "COMPLETERS", "EARN_MEDIAN"]].to_string(index=False))
 print("(colorado_label.ipynb joins on school + 4-digit CIP. These 4 have no school + CIP row in"
-      " victoria_datasets/clean_dataset.csv, so they drop out.)")
+      " national_data/clean_dataset.csv, so they drop out.)")
 
 missing_schools = sorted(set(y1["ENTITY_NAME"]) - set(mt["ENTITY_NAME"]))
 print(f"\nSchools in year_1_clean but not in the model table: {len(missing_schools)}")
