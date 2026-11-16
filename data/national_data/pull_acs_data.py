@@ -1,7 +1,10 @@
+import os
 import requests
 import pandas as pd
 
-API_KEY = "bf321550aa3ed9b79098bdcd5e29a9c1b1b61b5b"  # paste your actual key
+API_KEY = os.environ.get("CENSUS_API_KEY")
+if not API_KEY:
+    raise SystemExit("Set your free Census API key first: export CENSUS_API_KEY=your_key  (get one at https://api.census.gov/data/key_signup.html)")
 
 detail_vars = "B01003_001E,B19013_001E,B20004_003E"
 detail_url = f"https://api.census.gov/data/2024/acs/acs5?get=NAME,{detail_vars}&for=county:*&in=state:*&key={API_KEY}"
