@@ -54,6 +54,28 @@ streamlit run dashboard/app.py
 
 Run the model notebooks from the `notebooks/` folder in Jupyter or VS Code.
 
+### Data Validation and Testing
+
+Run these commands from the repository root to check the model-ready datasets and validation code.
+
+**Unit tests** — Verify that the validation functions detect data-quality issues:
+
+```bash
+py -m unittest discover -s tests -p "test_*.py" -v
+```
+
+**Data validation** — Check the national and Colorado datasets for missing inputs, invalid values, inconsistent missingness indicators, target leakage, duplicate program keys, and incorrect labels:
+
+```bash
+py validation/feature_validation.py
+```
+
+Validation results are reported as:
+- **Errors:** Failed checks that require investigation
+- **Warnings:** Known data limitations that do not cause validation to fail
+
+The validator does not modify the datasets. Use `python3` instead of `py` on systems where the Windows Python launcher is unavailable.
+
 ### Full rebuild from raw data
 
 Some files are too large for GitHub. They are in the team Google Drive folder:
